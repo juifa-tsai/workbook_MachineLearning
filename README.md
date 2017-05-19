@@ -1,2 +1,4 @@
-# ML_examples
-Practice machine learning
+# Python Mechine learning (Sebastian Raschka)
+* Chapter 2
+
+
