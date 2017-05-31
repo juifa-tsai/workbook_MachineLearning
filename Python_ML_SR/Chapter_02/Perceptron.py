@@ -18,8 +18,8 @@ class Perceptron(object):
 
             for xi, target in zip(X, y):
                 update = self.eta * (target - self.predict(xi))
-                self.w_[1:] += updata * xi
-                self.w_[0] += updata
+                self.w_[1:] += update * xi
+                self.w_[0] += update
                 errors += int(update != .0)
 
             self.errors_.append(errors)
