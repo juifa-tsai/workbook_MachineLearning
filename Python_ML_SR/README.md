@@ -1,5 +1,5 @@
 # Machine Learning in Python Practice 
-Follow the book written by Sebastian Raschka. The programing languge focus on Python, and the tool of machine learning is `Scikit-learn`. The another tool called `jupyter` is used for demonstrating the process of machine learning from data. Following has some scripts and documentation are helpful during programing.
+Follow the book written by Sebastian Raschka. The programing languge focus on Python, and the tool of machine learning is `Scikit-learn`. The another tool, called `jupyter`, is used for demonstrating the process of machine learning from data. Following has some scripts and documentation are helpful during programing.
 * [command.md](command.md) : shows the common and useful command lines.
 * [py2ipy.py](py2ipy.py) : convert .py to .ipynb.
 
