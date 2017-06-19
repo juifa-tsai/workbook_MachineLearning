@@ -6,7 +6,7 @@ Follow the book written by Sebastian Raschka. The programing languge focus on Py
 ## [Chapter 2](Chapter_02) 
 1. Hand-made perceptron by `numpy`, `pandas` and `matplotlib`
    * [Perceptron.py](Chapter_02/Perceptron.py) : class `Perceptron` for perceptron algorithm.
-   * [runPerceptron.ipynb](Chapter_02/runPerceptron.ipynb) : Apply `Perceptron` to data, iris.data , to demonstrate the learing process. 
+   * [runPerceptron.ipynb](Chapter_02/runPerceptron.ipynb) : Apply `Perceptron` to data, [iris.data](iris.data) , to demonstrate the learing process. 
 2. 
 
 ## [Chapter3]()
