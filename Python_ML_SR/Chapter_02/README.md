@@ -1,22 +1,26 @@
 # Chapter 2
 ## Perceptron algorithm
 ### Description  
-* It is online method, i.e. update weighting in each data point. <br />
+* It is online method, i.e. update weighting in each data point.
   ```
   X : array of variables
   w : array of weighting
   y : binary results
   ```
   ```
-  z = wX<br />
+  z = w.X
   y = sign(z), i.e. 1 or -1
   ```
+
 * Update weighting in each data point when ``y != y_true``.<br />
   ```
   w' = w + dw
-  dw = eta( y_true - y )X
+     = w + eta.dy.X
+  dw = eta.dy.X
+     = eta.( y_true - y ).X
   ```
-  ``eta`` is training rate.
+  1. ``dy.X`` : Fixing the wrong angle (too big/small) by extending/subtracting the normal vector of hyperplane ``w``. When whole dataset having zero of this, the hyperplane can classify the data in correct side.<br />
+  2. ``eta``  : The training rate.
 
 * Stop iteration<br />
 When statistics of dataset is big enough, the algorithm can stop when ``dw = 0``, while the small statistics is using whole dataset with many iterations.  
