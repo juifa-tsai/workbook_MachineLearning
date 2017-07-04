@@ -27,7 +27,8 @@ When statistics of dataset is big enough, the algorithm can stop when ``dw = 0``
   1. When ``dw = 0``.
   2. Linear separable.
 
-### Class ``Perceptron.py``
+### Class ``Perceptron``
+@ Perceptron.py
 * Global values
    * Parameters<br />
   ``eta`` : (**float**) Learning rate.<br />
@@ -36,6 +37,9 @@ When statistics of dataset is big enough, the algorithm can stop when ``dw = 0``
   ``w_`` : (**1d-array**) Weights after fitting.<br />
   ``errors_`` : (**list**) # of misclassifications in every epoch.
 * Functions
-  * ``fit (X, y)`` : <br /> 
-  * ``net_input (X)`` : <br />
-  * ``predict (X)`` : <br />
+  * ``fit (X, y)`` : The functions for doing perceptron learning iteratively. <br />
+  * ``net_input (X)`` : Calculate ``z = w.X = w'.X' + w_0.X_0, (X_0 = 1)``<br />
+  * ``predict (X)`` : Get predict sign of y as`` y = sign(w.X)`` <br />
+
+### Function ``plot_decision_regions()``
+@ plot_decision_regions.py
