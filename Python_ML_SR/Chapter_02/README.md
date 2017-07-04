@@ -36,6 +36,6 @@ When statistics of dataset is big enough, the algorithm can stop when ``dw = 0``
   ``w_`` : (**1d-array**) Weights after fitting.<br />
   ``errors_`` : (**list**) # of misclassifications in every epoch.
 * Functions
-  * ``fit (X, y)`` : <br />
+  * ``fit (X, y)`` : <br /> 
   * ``net_input (X)`` : <br />
   * ``predict (X)`` : <br />
