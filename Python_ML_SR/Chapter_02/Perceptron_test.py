@@ -9,11 +9,13 @@ class Perceptron(object):
 
     def fit(self, X, y):
         # initial w_ = [w_0,w_1....w_features] = 0
-        self.w_ = np.zeros(1 + X.shape[1])
+        #self.w_ = np.zeros(1 + X.shape[1])
+        self.w_ = []
         self.errors_ = []
 
         for _ in range(self.n_iter):
             errors = 0
+            self.w_.extend(np.zeros(1 + X.shape[1]))
 
             for xi, target in zip(X, y):
                 # update = eta.dy
@@ -21,7 +23,7 @@ class Perceptron(object):
                 # dw = eta.dy.X = update.X
                 self.w_[1:] += update * xi
                 self.w_[0] += update # dy.x_0 (x_0=1)
-                # Number of misclassifications in each iteration online (epoch)
+                # Number of misclassifications in each iteration (epoch)
                 errors += int(update != .0)
 
             self.errors_.append(errors)
@@ -35,17 +37,3 @@ class Perceptron(object):
     def predict(self, X):
         # y = sign(w.X)
         return np.where(self.net_input(X) >= 0.0, 1, -1)
-
-    def checkMisclassified(self, X, y):
-        #self.misc = np.zeros(len(y),len(X[0]))
-        self.misc = np.array([])
-
-        for xi, target in zip(X,y):
-            check = target * self.predict(xi)
-            if check < 0 :
-                if len(self.misc) == 0:
-                    self.misc = np.append(self.misc, xi)
-                else :
-                    self.misc = np.vstack((self.misc, xi))
-
-        return len(self.misc)
