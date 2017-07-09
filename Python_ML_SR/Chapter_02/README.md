@@ -43,3 +43,5 @@ When statistics of dataset is big enough, the algorithm can stop when ``dw = 0``
 
 ### Function ``plot_decision_regions()``
 @ plot_decision_regions.py
+
+## Adaptive Linear Neuron (Adaline) Gradian Decent
