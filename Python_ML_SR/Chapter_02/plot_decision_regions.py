@@ -18,8 +18,6 @@ def plot_decision_regions(X, y, classifier, resolution=0.02):
     x2_max = X[:, 1].max() + 1
 
     # Making a grid 2-D suface w.r.t. the resolution
-    #xx1, xx2 = np.meshgrid(np.arange(x1_min, x1_max, resolution),
-    #                       np.arange(x2_min, x2_max, resolution))
     xx1, xx2 = np.meshgrid(np.arange(0., x1_max, resolution),
                            np.arange(0., x2_max, resolution))
 
@@ -33,11 +31,9 @@ def plot_decision_regions(X, y, classifier, resolution=0.02):
     Z = Z.reshape(xx1.shape)
 
     plt.contourf(xx1, xx2, Z, alpha=0.4, cmap=cmap)
-    #plt.xlim(xx1.min(), xx1.max())
-    #plt.ylim(xx2.min(), xx2.max())
     plt.xlim(0., xx1.max())
     plt.ylim(0., xx2.max())
 
     # plot class samples
     for idx, c1 in enumerate(np.unique(y)):
-        plt.scatter(x=X[y == c1, 0], y=X[y == c1, 1], alpha=0.8, c=cmap(idx), marker=markers[idx], label=c1)
+        plt.scatter(x=X[y == c1, 0], y=X[y == c1, 1], alpha=0.8, c=cmap(idx), marker=markers[idx], label='setosa' if c1==-1 else 'versicolor' )
