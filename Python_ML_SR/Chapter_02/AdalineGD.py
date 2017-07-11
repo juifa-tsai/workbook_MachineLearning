@@ -34,7 +34,7 @@ class AdalineGD(object):
 
     def activation(self, X):
         # Compute linear activiation
-        return self.net_output(X)
+        return self.net_input(X)
 
     def predict(self, X):
         # y = sign(w.X)
