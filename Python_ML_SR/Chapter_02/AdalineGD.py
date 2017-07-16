@@ -36,9 +36,16 @@ class AdalineGD(object):
         # Compute linear activiation
         return self.net_input(X)
 
-    def predict(self, X):
+    def predict(self, X, outputBound=False, zeroRange=0.00001):
         # y = sign(w.X)
-        return np.where(self.activation(X) >= 0.0, 1, -1)
+        if outputBound:
+            output = self.activation(X)
+            output[output >    zeroRange]= 1
+            output[output < -1*zeroRange]=-1
+            return output
+        else:
+            return np.where(self.activation(X) >= 0.0, 1, -1)
+
 
     def checkMisclassified(self, X, y):
         #self.misc = np.zeros(len(y),len(X[0]))
