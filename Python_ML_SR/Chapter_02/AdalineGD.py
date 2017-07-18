@@ -45,18 +45,3 @@ class AdalineGD(object):
             return output
         else:
             return np.where(self.activation(X) >= 0.0, 1, -1)
-
-
-    def checkMisclassified(self, X, y):
-        #self.misc = np.zeros(len(y),len(X[0]))
-        self.misc = np.array([])
-
-        for xi, target in zip(X,y):
-            check = target * self.predict(xi)
-            if check < 0 :
-                if len(self.misc) == 0:
-                    self.misc = np.append(self.misc, xi)
-                else :
-                    self.misc = np.vstack((self.misc, xi))
-
-        return len(self.misc)
