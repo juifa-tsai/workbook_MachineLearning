@@ -21,14 +21,18 @@ class AdalineGD_online(object):
         for i in range(self.n_iter):
             if self.shuffle:
                 X, y = self._shuffle(X, y)
+
+            # Online update weight with datapoint
             cost = []
             for xi, target in zip(X, y):
                 cost.append(self._update_weights(xi, target))
+
             avg_cost = sum(cost)/len(y)
             self.cost_.append(avg_cost)
 
         return self
 
+    # For online update for a new comming data, without initializing weight.
     def partial_fit(self, X, y):
         if not self.w_initialized:
             self._initialize_weights(X.shape[1])
@@ -37,7 +41,7 @@ class AdalineGD_online(object):
                 self._update_weights(xi, target)
         else:
             self._update_weights(X, y)
-            
+
         return self
 
     def _shuffle(self, X, y):
@@ -55,7 +59,7 @@ class AdalineGD_online(object):
 
         # dW = eta * Sum_data(dy * X)
         self.w_[1:] += self.eta * xi.dot(error) # same with np.dot(X, errors) but much efficient
-        self.w_[0] += self.eta * error     # eta * dy * x_0 (x_0=1)
+        self.w_[0]  += self.eta * error     # eta * dy * x_0 (x_0=1)
         cost = 0.5 * error**2
         return cost
 
