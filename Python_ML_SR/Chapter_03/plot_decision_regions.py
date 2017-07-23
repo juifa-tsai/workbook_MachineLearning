@@ -2,10 +2,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 
-def plot_decision_regions(X, y, classifier, resolution=0.02):
+def plot_decision_regions( X, y, classifier, test_idx=None, resolution=0.02, highlightSize=100 ):
+
     ### setup marker generator and color map
     markers = ('s', 'x', 'o', '^', 'v')
-    colors = ('red', 'blue', 'ligtgreen', 'gray', 'cyan')
+    colors = ('red', 'blue', 'lightgreen', 'gray', 'cyan')
     cmap = ListedColormap(colors[:len(np.unique(y))])
 
     # np.unique(y) -> (1, -1)
@@ -21,13 +22,6 @@ def plot_decision_regions(X, y, classifier, resolution=0.02):
     # Making a grid 2-D suface w.r.t. the resolution
     xx1, xx2 = np.meshgrid( np.arange(x1_min, x1_max, resolution),
                             np.arange(x2_min, x2_max, resolution))
-    """
-    # np.arange(x1_min, x1_max, resolution) -> 1-D array w.r.t. resolution bewteen min & max values
-    # len(np.arange(x1_min, x1_max, resolution)) -> 235 length
-    # len(np.arange(x2_min, x2_max, resolution)) -> 305 length
-    # len(xx1), 'x' ,len(xx1[0]) -> 305 x 235 grid
-    # len(xx2), 'x' ,len(xx2[0]) -> 305 x 235 grid
-    """
 
     Z = classifier.predict(np.array([xx1.ravel(), xx2.ravel()]).T)
     Z = Z.reshape(xx1.shape)
@@ -36,6 +30,13 @@ def plot_decision_regions(X, y, classifier, resolution=0.02):
     plt.xlim(x1_min, xx1.max())
     plt.ylim(x2_min, xx2.max())
 
-    # plot class samples
+    # plot all samples
     for idx, c1 in enumerate(np.unique(y)):
-        plt.scatter(x=X[y == c1, 0], y=X[y == c1, 1], alpha=0.8, c=cmap(idx), marker=markers[idx], label='setosa' if c1==-1 else 'versicolor' )
+        plt.scatter( x=X[y == c1, 0], y=X[y == c1, 1],
+                     alpha=0.8, c=cmap(idx), marker=markers[idx],
+                     label=c1)
+
+    # Highlight test samlpes
+    if test_idx:
+        X_test, y_test = X[test_idx, :], y[test_idx]
+        plt.scatter( X_test[:, 0], X_test[:, 1], c='', alpha=1., linewidths=1, marker='o', s=highlightSize, edgecolors='black', label='test set' )
