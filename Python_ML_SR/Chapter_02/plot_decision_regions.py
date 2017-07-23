@@ -5,7 +5,7 @@ from matplotlib.colors import ListedColormap
 def plot_decision_regions(X, y, classifier, resolution=0.02):
     ### setup marker generator and color map
     markers = ('s', 'x', 'o', '^', 'v')
-    colors = ('red', 'blue', 'ligtgreen', 'gray', 'cyan')
+    colors = ('red', 'blue', 'lightgreen', 'gray', 'cyan')
     cmap = ListedColormap(colors[:len(np.unique(y))])
 
     # np.unique(y) -> (1, -1)
