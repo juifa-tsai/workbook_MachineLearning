@@ -1,15 +1,31 @@
-# Machine Learning in Python Practice
-Follow the book written by Sebastian Raschka. The programing language focus on Python, and the tool of machine learning is `Scikit-learn`. Data visualization is using `matplotlib` The another tool, called `jupyter`, is used for demonstrating the process of machine learning from data. Following has some helpful scripts and documents for programing and practice.
-* [command.md](command.md) : shows the common and useful command lines.
-* [py2ipy.py](py2ipy.py) : convert .py to .ipynb.
+# Machine Learning in Python and Sklearn
+The artificial intellegent (AI) has been a popular key word in any field, e.g. marketing, robotics, art, biologics, physics anaylsis etc.. However, machine learning (ML) is actually the fundametal elements behine the AI. To get into know the work of AI, we can not skip the basis. Thanks to many great experts in the world, we are lucky to have many good tools to know and step into this field. Thus, we are going to step by step to follow the book written by Sebastian Raschka to demonstrate and show perfomances of ML models. It is not just provide implement of coding, but the theories behine the ML models are also clear. Beyond following this book, I also provide a lot of extra tutorials for optimation and test for each cases based on my expreince from physics analysis. Some theories in this book may not easy to understand, I also provide clearly derivations and examples if it needs.
+
+The programing language focus on **Python**, and the tool of machine learning is using **Scikit-learn** package. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the process of machine learning from data.
+
+## [Chapter 2](Chapter_02)
+* [example_01_PLA](Chapter_02/example_01_PLA.ipynb)
+* [example_02_PLA](Chapter_02/example_02_PLA.ipynb)
+* [example_03_PLA](Chapter_02/example_03_PLA.ipynb)
+* [example_04_AdalineGD](Chapter_02/example_04_AdalineGD.ipynb)
+* [example_05_AdalineGD](Chapter_02/example_05_AdalineGD.ipynb)
+
+## [Chapter 3](Chapter_03)
+1. [example_01_PLA](Chapter_03/example_01_PLA.ipynb)
+2. [example_02_LogisticRegresion](Chapter_03/example_02_LogisticRegresion.ipynb)
+3. [example_03_SVM](Chapter_03/example_03_SVM.ipynb)
+4. [example_04_TreeAlgorithms](Chapter_03/example_04_TreeAlgorithms.ipynb)
+
+
+## [Chapter 10](Chapter_10)
+1. [example_01_EDA.ipynb](Chapter_10/example_01_EDA.ipynb)
+2. [example_02_LinearRegressionGD](Chapter_10/example_02_LinearRegressionGD.ipynb)
+3. [example_03_LinearRegressionSkLearn](Chapter_10/example_03_LinearRegressionSkLearn.ipynb)
+4. [example_04_regularization_regression](Chapter_10/example_04_regularization_regression.ipynb)
+
+> **Scripts** \
+> [command.md](command.md) : shows the common and useful command lines. \
+> [py2ipy.py](py2ipy.py) : convert .py to .ipynb.\
   ```
   python py2ipy.py --inpy file.py
   ```
-
-## [Chapter 2](Chapter_02)
-1. Hand-made perceptron algorithm by `numpy`, `pandas` and `matplotlib`
-   * [Perceptron.py](Chapter_02/Perceptron.py) : class `Perceptron` for perceptron algorithm.
-   * [runPerceptron.ipynb](Chapter_02/runPerceptron.ipynb) : Apply `Perceptron` to data, [iris.data](Chapter_02/iris.data) , to demonstrate the learing process.
-2.
-
-## [Chapter3]()
