@@ -13,19 +13,19 @@ Give the major concept and history of machine learning algorithm. Start from **P
 
 ## [Chapter 3](Chapter_03)
 Give several futher popular learning algorithms in current and foucs on **classification** case by using **Scikit-learn** tools, e.g. **PLA**, **Logist regession**, **SVM**, **decision tree**, **random forest** and **KNN**.
-1. [example_01_PLA](Chapter_03/example_01_PLA.ipynb)
-2. [example_02_LogisticRegresion](Chapter_03/example_02_LogisticRegresion.ipynb)
-3. [example_03_SVM](Chapter_03/example_03_SVM.ipynb)
-4. [example_04_TreeAlgorithms](Chapter_03/example_04_TreeAlgorithms.ipynb)
-5. [example_05_KNN](Chapter_03/example_05_KNN.ipynb)
+* [example_01_PLA](Chapter_03/example_01_PLA.ipynb)
+* [example_02_LogisticRegresion](Chapter_03/example_02_LogisticRegresion.ipynb)
+* [example_03_SVM](Chapter_03/example_03_SVM.ipynb)
+* [example_04_TreeAlgorithms](Chapter_03/example_04_TreeAlgorithms.ipynb)
+* [example_05_KNN](Chapter_03/example_05_KNN.ipynb)
 
 
 ## [Chapter 10](Chapter_10)
 Foucus on **regession** case in machine learning and give a example about **Exploratory Data Analysis** (EDA) for analyzing features. **Linear regression** with/without regularization cases,  
-1. [example_01_EDA.ipynb](Chapter_10/example_01_EDA.ipynb)
-2. [example_02_LinearRegressionGD](Chapter_10/example_02_LinearRegressionGD.ipynb)
-3. [example_03_LinearRegressionSkLearn](Chapter_10/example_03_LinearRegressionSkLearn.ipynb)
-4. [example_04_regularization_regression](Chapter_10/example_04_regularization_regression.ipynb)
+* [example_01_EDA.ipynb](Chapter_10/example_01_EDA.ipynb)
+* [example_02_LinearRegressionGD](Chapter_10/example_02_LinearRegressionGD.ipynb)
+* [example_03_LinearRegressionSkLearn](Chapter_10/example_03_LinearRegressionSkLearn.ipynb)
+* [example_04_regularization_regression](Chapter_10/example_04_regularization_regression.ipynb)
 
 > **Scripts** \
 > [command.md](command.md) : shows the common and useful command lines. \
