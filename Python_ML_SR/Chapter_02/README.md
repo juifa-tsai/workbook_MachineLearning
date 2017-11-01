@@ -5,7 +5,7 @@ This chapter give the introduction about the basic machine learning (ML) and sta
 2. [example_02_PLA](example_02_PLA.ipynb) :
 3. [example_03_PLA](example_03_PLA.ipynb) :
 4. [example_04_AdalineGD](example_04_AdalineGD.ipynb) :
-5. [example_05_AdalineGD](example_05_AdalineGD.ipynb) :
+5. [example_05_StochasticGD](example_05_StochasticGD.ipynb) :
 
 > **Functions and class**\
 > [Perceptron.py](Perceptron.py) : class `Perceptron` for perceptron algorithm. \
@@ -14,7 +14,7 @@ This chapter give the introduction about the basic machine learning (ML) and sta
 > [AdalineGD_online.py](AdalineGD_online.py) : class `AdalineGD_online` \
 > [plot_decision_regions.py](plot_decision_regions.py) : function `plot_decision_regions`
 
-### Perceptron algorithm 
+### Perceptron algorithm
 * It is online method, i.e. update weighting in each data point.
   ```
   X : array of variables

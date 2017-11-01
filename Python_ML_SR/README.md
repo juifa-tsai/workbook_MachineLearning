@@ -9,7 +9,7 @@ Give the major concept and history of machine learning algorithm. Start from **P
 * [example_02_PLA](Chapter_02/example_02_PLA.ipynb)
 * [example_03_PLA](Chapter_02/example_03_PLA.ipynb)
 * [example_04_AdalineGD](Chapter_02/example_04_AdalineGD.ipynb)
-* [example_05_AdalineGD](Chapter_02/example_05_AdalineGD.ipynb)
+* [example_05_StochasticGD](Chapter_02/example_05_StochasticGD.ipynb)
 
 ## [Chapter 3](Chapter_03)
 Give several futher popular learning algorithms in current and foucs on **classification** case by using **Scikit-learn** tools, e.g. **PLA**, **Logist regession**, **SVM**, **decision tree**, **random forest** and **KNN**.
