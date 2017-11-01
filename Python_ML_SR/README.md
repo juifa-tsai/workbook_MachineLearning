@@ -4,6 +4,7 @@ The artificial intellegent (AI) has been a popular key word in any field, e.g. m
 The programing language focus on **Python**, and the packages of machine learning models are using **Scikit-learn**, **pandas** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the process of machine learning from data.
 
 ## [Chapter 2](Chapter_02)
+Give the major concept and history of machine learning algorithm. Start from **Perceptron learning algorithm** (PLA), **Gradient decent algorithm** and **Stochastic gradient decent algorithm** by building own class.
 * [example_01_PLA](Chapter_02/example_01_PLA.ipynb)
 * [example_02_PLA](Chapter_02/example_02_PLA.ipynb)
 * [example_03_PLA](Chapter_02/example_03_PLA.ipynb)
@@ -11,6 +12,7 @@ The programing language focus on **Python**, and the packages of machine learnin
 * [example_05_AdalineGD](Chapter_02/example_05_AdalineGD.ipynb)
 
 ## [Chapter 3](Chapter_03)
+Give several futher popular learning algorithms in current and foucs on **classification** case by using **Scikit-learn** tools, e.g. **PLA**, **Logist regession**, **SVM**, **decision tree**, **random forest** and **KNN**. 
 1. [example_01_PLA](Chapter_03/example_01_PLA.ipynb)
 2. [example_02_LogisticRegresion](Chapter_03/example_02_LogisticRegresion.ipynb)
 3. [example_03_SVM](Chapter_03/example_03_SVM.ipynb)
