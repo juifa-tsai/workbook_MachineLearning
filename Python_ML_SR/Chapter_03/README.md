@@ -7,5 +7,6 @@ This chapter gives the tutorial of popular classification algorithm with **sklea
 4. [example_04_TreeAlgorithms](example_04_TreeAlgorithms.ipynb) : Inclusding decision tree algorithm with different active function and random forest algorithm.
 5. [example_05_KNN](example_05_KNN.ipynb)
 
+---
 > **Functions and class**\
 > [plot_decision_regions.py](plot_decision_regions.py) : function `plot_decision_regions`

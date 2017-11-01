@@ -27,6 +27,7 @@ Foucus on **regession** case in machine learning and give a example about **Expl
 * [example_03_LinearRegressionSkLearn](Chapter_10/example_03_LinearRegressionSkLearn.ipynb)
 * [example_04_regularization_regression](Chapter_10/example_04_regularization_regression.ipynb)
 
+---
 > **Scripts** \
 > [command.md](command.md) : shows the common and useful command lines. \
 > [py2ipy.py](py2ipy.py) : convert .py to .ipynb.\
