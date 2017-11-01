@@ -15,6 +15,7 @@ The programing language focus on **Python**, and the packages of machine learnin
 2. [example_02_LogisticRegresion](Chapter_03/example_02_LogisticRegresion.ipynb)
 3. [example_03_SVM](Chapter_03/example_03_SVM.ipynb)
 4. [example_04_TreeAlgorithms](Chapter_03/example_04_TreeAlgorithms.ipynb)
+5. [example_05_KNN](Chapter_03/example_05_KNN.ipynb)
 
 
 ## [Chapter 10](Chapter_10)
