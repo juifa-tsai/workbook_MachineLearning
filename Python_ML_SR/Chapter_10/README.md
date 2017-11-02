@@ -6,5 +6,6 @@ This chapter gives the tutorial of popular regession algorithms with **sklearn**
 3. [example_03_LinearRegressionSkLearn](example_03_LinearRegressionSkLearn.ipynb)
 4. [example_04_regularization_regression](example_04_regularization_regression.ipynb)
 
+---
 > **Functions and class**\
 > [AdalineGD.py](AdalineGD.py) : class `AdalineGD` \
