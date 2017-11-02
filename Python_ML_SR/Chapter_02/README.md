@@ -7,6 +7,7 @@ This chapter give the introduction about the basic machine learning (ML) and sta
 4. [example_04_AdalineGD](example_04_AdalineGD.ipynb) :
 5. [example_05_StochasticGD](example_05_StochasticGD.ipynb) :
 
+---
 > **Functions and class**\
 > [Perceptron.py](Perceptron.py) : class `Perceptron` for perceptron algorithm. \
 > [Perceptron_online.py](Perceptron_online.py) : class `Perceptron_online` \

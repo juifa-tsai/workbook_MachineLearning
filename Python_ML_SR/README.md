@@ -4,7 +4,7 @@ The artificial intellegent (AI) has been a popular key word in any field, e.g. m
 The programing language focus on **Python**, and the packages of machine learning models are using **Scikit-learn**, **pandas** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the process of machine learning from data.
 
 ## [Chapter 2](Chapter_02)
-Give the major concept and history of machine learning algorithm. Start from **Perceptron learning algorithm** (PLA), **Gradient decent algorithm** and **Stochastic gradient decent algorithm** by building own class.
+Give the major concept and history of machine learning algorithm. Start from the **supervised learning**: **Perceptron learning algorithm** (PLA), **Gradient decent algorithm** and **Stochastic gradient decent algorithm** by building own class.
 * [example_01_PLA](Chapter_02/example_01_PLA.ipynb)
 * [example_02_PLA](Chapter_02/example_02_PLA.ipynb)
 * [example_03_PLA](Chapter_02/example_03_PLA.ipynb)
@@ -12,7 +12,7 @@ Give the major concept and history of machine learning algorithm. Start from **P
 * [example_05_StochasticGD](Chapter_02/example_05_StochasticGD.ipynb)
 
 ## [Chapter 3](Chapter_03)
-Give several futher popular learning algorithms in current and foucs on **classification** case by using **Scikit-learn** tools, e.g. **PLA**, **Logist regession**, **SVM**, **decision tree**, **random forest** and **KNN**.
+Give several futher popular learning algorithms in current and foucs on **classification** case with **supervised learning** by using **Scikit-learn** tools, e.g. **PLA**, **Logist regession**, **SVM**, **decision tree**, **random forest** and **KNN**.
 * [example_01_PLA](Chapter_03/example_01_PLA.ipynb)
 * [example_02_LogisticRegresion](Chapter_03/example_02_LogisticRegresion.ipynb)
 * [example_03_SVM](Chapter_03/example_03_SVM.ipynb)
@@ -21,7 +21,7 @@ Give several futher popular learning algorithms in current and foucs on **classi
 
 
 ## [Chapter 10](Chapter_10)
-Foucus on **regession** case in machine learning and give a example about **Exploratory Data Analysis** (EDA) for analyzing features. **Linear regression** with/without regularization cases,  
+Foucus on **regession** case in **supervised** machine learning and give a example about **Exploratory Data Analysis** (EDA) for analyzing features. **Linear regression** with/without regularization cases,  
 * [example_01_EDA.ipynb](Chapter_10/example_01_EDA.ipynb)
 * [example_02_LinearRegressionGD](Chapter_10/example_02_LinearRegressionGD.ipynb)
 * [example_03_LinearRegressionSkLearn](Chapter_10/example_03_LinearRegressionSkLearn.ipynb)
