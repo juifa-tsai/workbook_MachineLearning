@@ -22,7 +22,8 @@ Give several futher popular learning algorithms in current and foucs on **classi
 ## [Chapter 4](Chapter_04)
 Gives the basic examples for pre-processing data and introduces the ***Regularization*** in machine learning. Two Regularization methods, **L1** and **L2**, have clear comparison in this chapter.
 
-* [example_01_Preprocessing](example_01_Preprocessing.ipynb)
+* [example_01_Preprocessing](Chapter_04/example_01_Preprocessing.ipynb)
+* [example_02_Regularization](Chapter_04/example_02_Regularization.ipynb)
 
 
 ## [Chapter 10](Chapter_10)

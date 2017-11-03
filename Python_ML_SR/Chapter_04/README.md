@@ -5,4 +5,5 @@ This chapter gives the basic examples for pre-processing data. Several tools can
    - Deal with lost data
    - Numerate words for training
    - **One-hot encoder**
-2.
+2. [example_02_Regularization](example_02_Regularization.ipynb)
+   - Performace sparse behavior of **L1 regularization** 
