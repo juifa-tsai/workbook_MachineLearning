@@ -6,5 +6,13 @@ This chapter gives the basic examples for pre-processing data. Several tools can
    - Numerate words for training.
    - **One-hot encoder**.
 2. [example_02_Regularization](example_02_Regularization.ipynb)
-   - Gives the basic sense of regularization. 
+   - Gives the basic sense of regularization.
    - Performs the sparse behavior between **L1** and **L2** regularization.
+
+3. [example_03_FeatureSelection](example_03_FeatureSelection.ipynb)
+   - Introduce **Sequential backward selection** (SBS).
+
+
+---
+> **Functions and class**\
+> [sbs.py](sbs.py) : class `SBS` \

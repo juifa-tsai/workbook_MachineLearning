@@ -24,6 +24,7 @@ Gives the basic examples for pre-processing data and introduces the ***Regulariz
 
 * [example_01_Preprocessing](Chapter_04/example_01_Preprocessing.ipynb)
 * [example_02_Regularization](Chapter_04/example_02_Regularization.ipynb)
+* [example_03_FeatureSelection](Chapter_04/example_03_FeatureSelection.ipynb)
 
 
 ## [Chapter 10](Chapter_10)
