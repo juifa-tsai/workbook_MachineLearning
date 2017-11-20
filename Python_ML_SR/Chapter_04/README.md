@@ -10,9 +10,10 @@ This chapter gives the basic examples for pre-processing data. Several tools can
    - Performs the sparse behavior between **L1** and **L2** regularization.
 
 3. [example_03_FeatureSelection](example_03_FeatureSelection.ipynb)
-   - Introduce **Sequential backward selection** (SBS).
+   - Introduce **Sequential backward selection** (SBS) algorithm.
+   - Extrcat the importance of features with **Random forest**.
 
 
 ---
 > **Functions and class**\
-> [sbs.py](sbs.py) : class `SBS` \
+> [sbs.py](sbs.py) : class `SBS`
