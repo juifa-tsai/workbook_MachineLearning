@@ -1,5 +1,5 @@
-# Chapter 4 : Build a good training data : pre-processing
-This chapter gives the basic examples for pre-processing data. Several tools can help us to make the dataframe processable and easier to be trained, e.g. **scikit-learn**, **Pandas** and **Numpy**. On the other hand, we also introduce the ***Regularization*** in machine learning. Two Regularization methods, **L1** and **L2**, have clear comparison in this chapter.
+# Chapter 4 : Preprocessing data, regularization methods
+This chapter gives the basic examples for pre-processing data. Several tools can help us to make the dataframe processable and easier to be trained, e.g. **scikit-learn**, **Pandas** and **Numpy**. On the other hand, we also introduce the ***Regularization*** in machine learning to deal with the overfitting problem. Two Regularization methods, **L1** and **L2**, have clear comparison in this chapter. In the end, the alternative algorithms for overfitting are introduced, **Sequential backward selection (SBS)** and **Random forest**. They can help to select most important feature for training, to avoid the dimension disaster.
 
 1. [example_01_Preprocessing](example_01_Preprocessing.ipynb)
    - Deal with lost data.

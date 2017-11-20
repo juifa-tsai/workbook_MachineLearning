@@ -1,5 +1,5 @@
-# Chapter 3 : Classification models with Sklearn Python packages
-This chapter gives the tutorial of popular classification algorithm with **sklearn** package: ***linear perceptron***, ***logistic regression***, ***suport vector machine*** (SVM), ***Kernel SVM***, ***Decision tree***, ***Random forest*** and ***KNN***. The implement with sklearn package is used here, and the theories behine each models are also provided in detail. Some optimation and parameter tuning are perfromed in following examples as well. The exercises are all using iris data.  
+# Chapter 3 : Classification models
+This chapter gives the tutorial of popular classification algorithm with **scikit-learn** python package: ***linear perceptron***, ***logistic regression***, ***suport vector machine*** (SVM), ***Kernel SVM***, ***Decision tree***, ***Random forest*** and ***KNN***. The implement with sklearn package is used here, and the theories behine each models are also provided in detail. Some optimation and parameter tuning are perfromed in following examples as well. The exercises are all using iris data.  
 
 1. [example_01_PLA](example_01_PLA.ipynb)
 2. [example_02_LogisticRegresion](example_02_LogisticRegresion.ipynb)
