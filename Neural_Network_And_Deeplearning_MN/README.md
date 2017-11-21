@@ -4,6 +4,6 @@ The more advance and popular machine learning method is Neural Network and Deepl
 The programing language focus on **Python** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the process of machine learning from data.
 
 ## [Exersice 1 - DNN](Chapter_01)
-Introduce the **Dence Nearual Network (DNN)** algorithm with **MINIST** data for recognizing hand-written numbers. The programing language is using Python with **Numpy** package.
+Introduce the **Dence Nearual Network (DNN)** algorithm with **[MNIST](http://yann.lecun.com/exdb/mnist/)** data for recognizing hand-written numbers. The programing language is using Python with **Numpy** package.
 
 * [example_01_MINST_DNN](Chapter_02/example_01_MINIST_DNN.ipynb)
