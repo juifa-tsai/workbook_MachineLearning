@@ -30,6 +30,7 @@ Gives the basic examples for preprocessing data and introduceing the ***Regulari
 Provide important topic about feature extraction and reduction. Several common method will be shown here, e.g. **Principle Component Algorithm**.
 
 * [example_01_PCA](Chapter_05/example_01_PCA.ipynb)
+* [example_02_LDA](Chapter_05/example_02_LDA.ipynb)
 
 
 ## [Chapter 10 - Regression models](Chapter_10)
