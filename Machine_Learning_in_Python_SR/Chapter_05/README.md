@@ -3,4 +3,4 @@ This chapter gives the examples for feature extrcation and reduction which are v
 
 1. [example_01_PCA](example_01_PCA.ipynb)
    - The theory of PCA.
-   - Exersice with **numpy** and **scikit-learn**
+   - Exersice with **numpy** and **scikit-learn**.
