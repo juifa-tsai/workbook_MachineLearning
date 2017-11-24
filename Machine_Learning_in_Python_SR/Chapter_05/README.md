@@ -7,3 +7,7 @@ This chapter gives the examples for feature extrcation and reduction which are v
 2. [example_02_LDA](example_02_LDA.ipynb)
    - The theory of LDA
    - Exersice with **numpy** and **scikit-learn**.
+
+---
+> **Functions and class**\
+> [plot_decision_regions.py](plot_decision_regions.py) : function `plot_decision_regions`
