@@ -15,3 +15,4 @@ This chapter gives the examples for feature extrcation and reduction which are v
 ---
 > **Functions and class**\
 > [plot_decision_regions.py](plot_decision_regions.py) : function `plot_decision_regions`
+> [rbf_kernel_pca.py](rbf_kernel_pca.py) : function `rbf_kernel_pca`
