@@ -4,7 +4,7 @@ The artificial intellegent (AI) has been a popular key word in any field, e.g. m
 The programing language focus on **Python**, and the packages of machine learning models are using **scikit-learn**, **pandas** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the process of machine learning from data.
 
 ## [Chapter 2 - Basic models of machine learning ](Chapter_02)
-Give the major concept and history of machine learning algorithm. Start from the **supervised learning**: **Perceptron learning algorithm** (PLA), **Gradient decent algorithm** and **Stochastic gradient decent algorithm** by building own class.
+Give the major concept and history of machine learning algorithm. Start from the **supervised learning**: **Perceptron learning algorithm (PLA)**, **Gradient decent algorithm** and **Stochastic gradient decent algorithm** by building own class.
 * [example_01_PLA](Chapter_02/example_01_PLA.ipynb)
 * [example_02_PLA](Chapter_02/example_02_PLA.ipynb)
 * [example_03_PLA](Chapter_02/example_03_PLA.ipynb)
@@ -12,7 +12,7 @@ Give the major concept and history of machine learning algorithm. Start from the
 * [example_05_StochasticGD](Chapter_02/example_05_StochasticGD.ipynb)
 
 ## [Chapter 3 - Classification models](Chapter_03)
-Give several futher popular learning algorithms in current and foucs on **classification** case with **supervised learning** by using **Scikit-learn** tools, e.g. **PLA**, **Logist regession**, **SVM**, **decision tree**, **random forest** and **KNN**.
+Give several futher popular learning algorithms in current and foucs on **classification** case with **supervised learning** by using **Scikit-learn** tools, e.g. **PLA**, **Logist regession**, **Support Vector Machine (SVM)**, **decision tree**, **random forest** and **K-nearest neigbors (KNN)**.
 * [example_01_PLA](Chapter_03/example_01_PLA.ipynb)
 * [example_02_LogisticRegresion](Chapter_03/example_02_LogisticRegresion.ipynb)
 * [example_03_SVM](Chapter_03/example_03_SVM.ipynb)
@@ -20,17 +20,18 @@ Give several futher popular learning algorithms in current and foucs on **classi
 * [example_05_KNN](Chapter_03/example_05_KNN.ipynb)
 
 ## [Chapter 4 - Preprocessing data, regularization methods](Chapter_04)
-Gives the basic examples for preprocessing data and introduceing the ***Regularization*** in machine learning, which is for dealing with the overfitting problem. Two Regularization methods, **L1** and **L2**, have clear comparison in this chapter. Except regularization, two feature selection algorithms are introduced: **Sequential backward selection (SBS)** and **Random forest**
+Gives the basic examples for preprocessing data and introduceing the ***Regularization*** in machine learning, which is for dealing with the overfitting problem. Two Regularization methods, **L1** and **L2**, have clear comparison in this chapter. Except regularization, two feature selection algorithms are introduced: **Sequential backward selection (SBS)** and **Random forest**.
 
 * [example_01_Preprocessing](Chapter_04/example_01_Preprocessing.ipynb)
 * [example_02_Regularization](Chapter_04/example_02_Regularization.ipynb)
 * [example_03_FeatureSelection](Chapter_04/example_03_FeatureSelection.ipynb)
 
 ## [Chapter 5 - Feature extraction and reduction](Chapter_05)
-Provide important topic about feature extraction and reduction. Several common method will be shown here, e.g. **Principle Component Algorithm**.
+Provide important topic about feature extraction and reduction. Several common method will be shown here, e.g. **Principle Component Analysis (PCA)**, **Linear Discriminant Analysis (LDA)** and **Kernal PCA**. I also introduce the fundamental theories about **Kernal algorithm**.
 
 * [example_01_PCA](Chapter_05/example_01_PCA.ipynb)
 * [example_02_LDA](Chapter_05/example_02_LDA.ipynb)
+* [example_03_KernalPCA](Chapter_05/example_03_KernalPCA.ipynb)
 
 
 ## [Chapter 10 - Regression models](Chapter_10)
