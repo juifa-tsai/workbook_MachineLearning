@@ -5,6 +5,8 @@ Several models of machine learning intruduced in this workbooks include  **class
 
 The programing language focus on **Python**, and the packages of machine learning models are using **scikit-learn**, **pandas** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the processes of analysis from data. Sometimes **Scipy** are used.
 
+All the main contants and knowledges are refered to the book [**Machine Learning in Python**, *Sebastian Raschka*](https://books.google.com.tw/books/about/Python_Machine_Learning.html?id=GOVOCwAAQBAJ&source=kp_cover&redir_esc=y). Several detial theories and mathematical methods are inspired by the book [**Pattern Recognition and Machine Learning**, *Christopher M. Bishop* ](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y) and online course [**Machine Learning Foundations/Techniques**, *Hsuan-Tien Lin*](https://www.youtube.com/user/hsuantien/playlists).
+
 ## [Chapter 2 - Basic models of machine learning ](Chapter_02)
 Give the major concept and history of machine learning algorithm. Start from the **supervised learning**: **Perceptron learning algorithm (PLA)**, **Gradient decent algorithm** and **Stochastic gradient decent algorithm** by building own class.
 * [example_01_PLA](Chapter_02/example_01_PLA.ipynb)
