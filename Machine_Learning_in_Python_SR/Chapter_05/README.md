@@ -4,8 +4,8 @@ This chapter gives the examples for feature extrcation and reduction which are v
 1. [example_01_PCA](example_01_PCA.ipynb)
    - The theories of PCA.
    - Exersice with pure **Numpy** and **Scikit-learn**.
-2. [example_02_LDA](example_02_LDA.ipynb)
-   - The theories of LDA
+2. [example_02_FisherLDA](example_02_FisherLDA.ipynb)
+   - The theories of Fisher's LDA
    - Exersice with pure **Numpy** and **Scikit-learn**.
    - Comparison with PCA
 3. [example_03_KernelPCA](example_03_KernelPCA.ipynb)
