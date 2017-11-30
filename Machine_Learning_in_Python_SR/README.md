@@ -9,7 +9,7 @@ All the main contants and knowledges are refered to the book [**Machine Learning
 
 <img src="doc/Python_Machine_Learning_RS.jpeg" alt="Drawing" style="height: 300px;"/>
 
-<img src="doc/Pattern_Recognition_and_Machine_Learning_Bishop.jpeg" alt="Drawing" style="height: 300px;"/>
+<img src="doc/Pattern_Recognition_and_Machine_Learning_Bishop.jpeg" alt="Drawing" style="height: 200px;"/>
 
 ## [Chapter 2 - Basic models of machine learning ](Chapter_02)
 Give the major concept and history of machine learning algorithm. Start from the **supervised learning**: **Perceptron learning algorithm (PLA)**, **Gradient decent algorithm** and **Stochastic gradient decent algorithm** by building own class.
