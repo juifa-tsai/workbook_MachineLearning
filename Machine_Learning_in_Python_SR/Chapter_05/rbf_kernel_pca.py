@@ -12,7 +12,7 @@ from scipy import exp
 from scipy.linalg import eigh
 import numpy as np
 
-def rbf_kernel_pca(X, gamma, n_componets):
+def rbf_kernel_pca(X, gamma, n_components):
 
     # Calculate pairwise squared Euclidean distance
     # in the MxN dimensional dataset
@@ -34,9 +34,9 @@ def rbf_kernel_pca(X, gamma, n_componets):
     eigvals, eigvecs = eigh(K)  
 
     # Collect the top k eigenvectors (projected smaples)
-    alpha = np.column_stack((eigvecs[:, -i] for i in range(1, n_components + 1))) # X_pc
+    eigenvectors = np.column_stack((eigvecs[:, -i] for i in range(1, n_components + 1))) # X_pc
     
     # Collect the correspoding eigenvalues
-    lambdas = [eigvals[-i] for i in range(1, n_components+1)]
+    eigenvalues = [eigvals[-i] for i in range(1, n_components+1)]
 
-    return alpha, lambdas
+    return eigenvectors, eigenvalues
