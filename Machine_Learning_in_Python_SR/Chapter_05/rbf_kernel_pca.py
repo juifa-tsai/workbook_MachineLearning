@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-mnist_loader : for loading MNIST data and reture proper data structure for neural network
+rbf_kernel_pca : RBF kernel PCA algorithm
 """
 
 #### Libraries
@@ -34,6 +34,9 @@ def rbf_kernel_pca(X, gamma, n_componets):
     eigvals, eigvecs = eigh(K)  
 
     # Collect the top k eigenvectors (projected smaples)
-    X_pc = np.column_stack((eigvecs[:, -i] for i in range(1, n_components + 1)))
+    alpha = np.column_stack((eigvecs[:, -i] for i in range(1, n_components + 1))) # X_pc
+    
+    # Collect the correspoding eigenvalues
+    lambdas = [eigvals[-i] for i in range(1, n_components+1)]
 
-    return X_pc
+    return alpha, lambdas
