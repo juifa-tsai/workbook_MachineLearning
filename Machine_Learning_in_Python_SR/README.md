@@ -33,7 +33,7 @@ Gives the basic examples for preprocessing data and introduceing the ***Regulari
 * [example_03_FeatureSelection](Chapter_04/example_03_FeatureSelection.ipynb)
 
 ## [Chapter 5 - Feature extraction and reduction](Chapter_05)
-Provide important topic about feature extraction and reduction. Several common method will be shown here, e.g. **Principal Component Analysis (PCA)**, **Linear Discriminant Analysis (LDA)** and **Kernel PCA**. I also introduce the fundamental theories about **Kernel algorithm**.
+Provide important topic about feature extraction and reduction. Several common method will be shown here, e.g. **Principal Component Analysis (PCA)**, **Fisher's Linear Discriminant Analysis (LDA)** and **Kernel PCA**. I also introduce the fundamental theories about **Kernel algorithm**.
 
 * [example_01_PCA](Chapter_05/example_01_PCA.ipynb)
 * [example_02_FisherLDA](Chapter_05/example_02_FisherLDA.ipynb)
