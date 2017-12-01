@@ -1,11 +1,11 @@
 # Chapter 5 : Feature extraction and reduction
-This chapter gives the examples for feature extrcation and reduction which are very important topic in data analysis, especially in model training. Here we will introduce some common method, e.g. **Principal Component Algorithm** **(PCA)**, **Linear Discriminant Analysis (LDA)** and **Kernel PCA**. I also introduce the fundamental theories about **Kernel algorithm**. The exersice data is using wine data and demonstrating with pure **Numpy** packages, and than comparing with using **Scikit-learn**.
+This chapter gives the examples for feature extrcation and reduction which are very important topic in data analysis, especially in model training. Here we will introduce some common method, e.g. **Principal Component Algorithm** **(PCA)**, **Fisher's Linear Discriminant Analysis (LDA)** and **Kernel PCA**. I also introduce the fundamental theories about **Kernel algorithm**. The exersice data is using wine data and demonstrating with pure **Numpy** packages, and than comparing with using **Scikit-learn**.
 
 1. [example_01_PCA](example_01_PCA.ipynb)
-   - The theories of PCA.
+   - The theories of unsupervisied learner, PCA.
    - Exersice with pure **Numpy** and **Scikit-learn**.
 2. [example_02_FisherLDA](example_02_FisherLDA.ipynb)
-   - The theories of Fisher's LDA
+   - The theories of supervisied learner, Fisher's LDA
    - Exersice with pure **Numpy** and **Scikit-learn**.
    - Comparison with PCA
 3. [example_03_KernelPCA](example_03_KernelPCA.ipynb)
