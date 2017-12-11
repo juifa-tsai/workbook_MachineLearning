@@ -10,5 +10,5 @@ Model validation and parameters optimation are strongly correlatied the results 
    - Perform simple case of parameter tuning in **regularization parameter**.
    - Fine tuning the parameter with **Grid search**
    - Introduce the combination way of optimation and validation for choosing the model, called **Nested cross-validation**.
-3. [example_03_scoringMethods](example_03_scoringMethods)
-   - Introduce **ROC**
+3. [example_03_scoringMethods](example_03_scoringMethods.ipynb)
+   - Introduce **Confusion matrix**
