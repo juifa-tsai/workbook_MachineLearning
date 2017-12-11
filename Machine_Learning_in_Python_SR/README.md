@@ -49,6 +49,7 @@ Model validation and parameters optimation are strongly correlatied the results 
 
 * [example_01_validations](Chapter_06/example_01_validations.ipynb)
 * [example_02_optimations](Chapter_06/example_02_optimations.ipynb)
+* [example_03_scoringMethods](Chapter_06/example_03_scoringMethods)
 
 ## [Chapter 10 - Regression models](Chapter_10)
 Foucus on **regression** case in **supervised** machine learning and give a example about **Exploratory Data Analysis** (EDA) for analyzing features. **Linear regression** with/without regularization cases,  
