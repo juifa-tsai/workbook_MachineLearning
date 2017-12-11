@@ -44,10 +44,11 @@ Provide important topic about feature extraction and reduction. Several common m
 * [example_03_KernelPCA](Chapter_05/example_03_KernelPCA.ipynb)
 
 
-## [Chapter 6 - Model validation and superparamers optimation](Chapter_06)
-Model validation and superparameters optimation are strongly correlatied the results of the learning. The validation can check and avoid the **underfitting** or **overfitting** problem during fitting before applying model to test or comming new data. The optimazation of superparameters can fine tune the model to fit better with the helps of validation. The method introduces here includes example of ***Pipline***, **K-fold cross-validation** and **nested cross-validation** etc....   
+## [Chapter 6 - Model validation and paramers optimation](Chapter_06)
+Model validation and parameters optimation are strongly correlatied the results of the learning. The validation can check and avoid the **underfitting** or **overfitting** problem during fitting before applying model to test or comming new data. The optimazation of superparameters can fine tune the model to fit better with the helps of validation. The method introduces here includes example of ***Pipline***, **K-fold cross-validation** and **nested cross-validation** etc....   
 
-* [example_01_validations](Chapter_06/example_01_validations.ipynb) 
+* [example_01_validations](Chapter_06/example_01_validations.ipynb)
+* [example_02_optimations](Chapter_06/example_02_optimations.ipynb)
 
 ## [Chapter 10 - Regression models](Chapter_10)
 Foucus on **regression** case in **supervised** machine learning and give a example about **Exploratory Data Analysis** (EDA) for analyzing features. **Linear regression** with/without regularization cases,  
