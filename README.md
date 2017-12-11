@@ -1,7 +1,18 @@
-# Machine Learning Example
-The main and efficient way to learn machine learning (ML) has to practice often. There are many resource for practicing, e.g. either books or online websites. Thus, this repository is for recording the "homework" which I have done as a working book. 
+# Machine Learning and Nueral Network Exersices
+The artificial intellegent (AI) has been a popular searching keyword in any field, e.g. marketing, robotics, art, biologics, physics anaylsis etc.. However, the **machine learning (ML)** is actually a fundametal branch and element behine the AI, and the **Nueral Network** or **(Deeplearning)** is also a revival and popular learning method in recent. To get into these technologies, we can not easily skip the fundametal knowledges of it. Thanks to many great experts from any corner of world and internet, we are lucky to have many good tools and books to learn and step into this field in elegant way. Here we follow two major books to demonstrate the **Machine learning** and **Nueral Network**.
 
-1. Machine learning in Python (Sebastian Raschka)<br />
-In directory [Python_ML_SR](Python_ML_SR) with chapter-related sub-directories.
+### [1. **Machine learning in Python**, *Sebastian Raschka*](Machine_Learning_in_Python_SR)
+The programing language focus on **Python**, and the packages of machine learning models are using **scikit-learn**, **pandas** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the processes of analysis from data. Sometimes **Scipy** are used.
 
+All the main contants and knowledges are refered to the book [**Machine Learning in Python**, *Sebastian Raschka*](https://sebastianraschka.com/books.html). Several detial theories and mathematical methods are inspired by the book [**Pattern Recognition and Machine Learning**, *Christopher M. Bishop* ](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y), and online course [**Machine Learning Foundations/Techniques**, *Hsuan-Tien Lin*](https://www.csie.ntu.edu.tw/~htlin/).
 
+<img src="Machine_Learning_in_Python_SR/doc/Python_Machine_Learning_RS.jpeg" height="300"> <img src="Machine_Learning_in_Python_SR/doc/Pattern_Recognition_and_Machine_Learning_Bishop.jpeg"  height="300">
+<img src="Machine_Learning_in_Python_SR/doc/Lin.jpg"  height="200">
+
+（Pictures credited by link-[1](https://books.google.com.tw/books/about/Python_Machine_Learning.html?id=GOVOCwAAQBAJ&source=kp_cover&redir_esc=y), [2](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y) and [3](https://www.youtube.com/watch?v=tDq_CSzFRYA&t=7s)）
+
+### [2. **Neural Network And Deeplearning**, *Michael Nielsen*](Neural_Network_And_Deeplearning_MN)
+
+The programing language focus on **Python**, and the packages of machine learning models is **numpy**.
+
+All the main contants and knowledges are refered to the book [**Neural Network And Deeplearning**, *Michael Nielsen*](http://neuralnetworksanddeeplearning.com).
