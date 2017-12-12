@@ -5,16 +5,15 @@ Several valuable courses and books related to the technologies of **Aritificial 
 
 
 
+## AI and Mechine learning
 
-
-## Mechine learning
-
-| Coures | Source | Achivment |
-| -------- | -------- | -------- |
-| <img src="Machine_Learning_in_Python_SR/doc/Lin.jpg"  height="200" width="450">  | [**Machine Learning Foundations/Techniques**, *Hsuan-Tien Lin*](https://www.csie.ntu.edu.tw/~htlin/) | :ballot_box_with_check: |
+| Coures | Source | Achivment | Note |
+| -------- | -------- | -------- | -------- |
+| <img src="doc/AI-LOGO.jpg"  height="200" width="450"> |  Coursera: [**Artificial Intelligence**, *Tian-Li Yu*](https://www.coursera.org/learn/rengong-zhineng) | :ballot_box_with_check: | |
+| <img src="doc/Lin.jpg"  height="200" width="450">  | Youtube: [**Machine Learning Foundations/Techniques**, *Hsuan-Tien Lin*](https://www.csie.ntu.edu.tw/~htlin/) | :ballot_box_with_check: | |
 
 
 | Book | Source | Achivment |  Note |
 | -------- | -------- | -------- | -------- |
-| <img src="Machine_Learning_in_Python_SR/doc/Python_Machine_Learning_RS.jpeg" height="200" width="200">    | [**Machine Learning in Python**, *Sebastian Raschka*](https://sebastianraschka.com/books.html)  | :ballot_box_with_check: | [ Workbooks project](Machine_Learning_in_Python_SR) |
-| <img src="Machine_Learning_in_Python_SR/doc/Pattern_Recognition_and_Machine_Learning_Bishop.jpeg"  height="200" width="200" > | [**Pattern Recognition and Machine Learning**, *Christopher M. Bishop* ](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y) | :ballot_box_with_check: |  The reference of [ Workbooks project](Machine_Learning_in_Python_SR) |
+| <img src="doc/Python_Machine_Learning_RS.jpeg" height="200" width="200">    | [**Machine Learning in Python**, *Sebastian Raschka*](https://sebastianraschka.com/books.html)  | :ballot_box_with_check: | [ Workbooks project](Machine_Learning_in_Python_SR) |
+| <img src="doc/Pattern_Recognition_and_Machine_Learning_Bishop.jpeg"  height="200" width="200" > | [**Pattern Recognition and Machine Learning**, *Christopher M. Bishop* ](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y) | :ballot_box_with_check: |  The reference of [ Workbooks project](Machine_Learning_in_Python_SR) |
