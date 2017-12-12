@@ -3,7 +3,7 @@ The book, **Machine Learning in Python**  written by *Sebastian Raschka*, demons
 
 Several models of machine learning intruduced in this workbooks include  **classification** and **regession** cases, and **supervisied** and **unsupervised** learners. Simple examples about data structure for anaylsis with some common tools, which can be done in **Pyhton**, are also provided. In the end, **Nature Language** and **Nueal network** are simply introduced and demonstrated.
 
-The programing language focus on **Python**, and the packages of machine learning models are using **scikit-learn**, **pandas** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the processes of analysis from data. Sometimes **Scipy** are used.
+The programing language focus on **Python**, and the packages of machine learning models are using **scikit-learn** (v 0.20), **pandas** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the processes of analysis from data. Sometimes **Scipy** are used.
 
 All the main contants and knowledges are refered to the book [**Machine Learning in Python**, *Sebastian Raschka*](https://sebastianraschka.com/books.html). Several detial theories and mathematical methods are inspired by the book [**Pattern Recognition and Machine Learning**, *Christopher M. Bishop* ](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y), and online course [**Machine Learning Foundations/Techniques**, *Hsuan-Tien Lin*](https://www.csie.ntu.edu.tw/~htlin/).
 
