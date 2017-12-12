@@ -3,7 +3,7 @@ The more advance and popular machine learning method is Neural Network and Deepl
 
 The programing language focus on **Python** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the process of machine learning from data.
 
-<img src="doc/book_cover.png" height="300">
+<img src="../doc/book_cover.png" height="300">
 
 （Picture credited by [link](http://michaelnielsen.org))
 
