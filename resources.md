@@ -1,7 +1,7 @@
 # Courses and books of Artificial Intellegent
 Several valuable courses and books related to the technologies of **Aritificial Interllegent (AI)** are provided on internet. The field becomes popular in current, espcailly **Mechine learning (ML)** and **Neural Network (NN)**, even the advance techniques of NN, so called **Deeplearning** are the hot keywords. Here I list the worth-reading metirials which are availible online. They are not just about AI, but the basic knowledges of computing sceince. The collections were gethered here since June of 2017, when I was during military service for a year.   
 
-The following :heavy_check_mark: and :ballot_box_with_check: mean the course/book has been went through completely at least onece and been refered to workbook projects/courses, respectively.
+The following :ballot_box_with_check: and :heavy_check_mark: mean the course/book has been went through completely at least onece and been refered to workbook projects/courses, respectively.
 
 ## AI and Mechine learning
 
