@@ -25,4 +25,5 @@ The following :ballot_box_with_check: and :heavy_check_mark: mean the course/boo
 
 | Book | Source | Progress |  Note |
 | -------- | -------- | -------- | -------- |
+| <img src="doc/dataStructure.gif" height="200" width="200">  | [**細談資料結構 (Data structure)**, *謝樹明*](http://www.flag.com.tw/book/bookinfo.asp?bokno=F7801C)  | :ballot_box_with_check: |  |
 | <img src="doc/lrg.jpg" height="200" width="200">    | [**Algorithms in a nutshell**, *Gary Pollice, Stanley Selkow, George Heineman*](http://shop.oreilly.com/product/9780596516246.do)  | :heavy_check_mark: | The reference of online course |
