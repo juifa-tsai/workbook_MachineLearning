@@ -9,8 +9,8 @@ Several valuable courses and books related to the technologies of **Aritificial 
 
 | Coures | Source | Achivment | Note |
 | -------- | -------- | -------- | -------- |
-| <img src="doc/AI-LOGO.jpg"  height="200" width="450"> |  Coursera: [**Artificial Intelligence**, *Tian-Li Yu*](https://www.coursera.org/learn/rengong-zhineng) | :ballot_box_with_check: | |
-| <img src="doc/Lin.jpg"  height="200" width="450">  | Youtube: [**Machine Learning Foundations/Techniques**, *Hsuan-Tien Lin*](https://www.csie.ntu.edu.tw/~htlin/) | :ballot_box_with_check: | |
+| <img src="doc/AI-LOGO.jpg"  height="150" width="300"> |  Coursera: [**Artificial Intelligence**, *Tian-Li Yu*](https://www.coursera.org/learn/rengong-zhineng) | :ballot_box_with_check: | |
+| <img src="doc/Lin.jpg"  height="150" width="300">  | Youtube: [**Machine Learning Foundations/Techniques**, *Hsuan-Tien Lin*](https://www.csie.ntu.edu.tw/~htlin/) | :ballot_box_with_check: | |
 
 
 | Book | Source | Achivment |  Note |
