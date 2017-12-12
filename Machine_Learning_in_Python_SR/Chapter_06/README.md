@@ -11,4 +11,6 @@ Model validation and parameters optimation are strongly correlatied the results 
    - Fine tuning the parameter with **Grid search**
    - Introduce the combination way of optimation and validation for choosing the model, called **Nested cross-validation**.
 3. [example_03_scoringMethods](example_03_scoringMethods.ipynb)
-   - Introduce **Confusion matrix**
+   - Start from **Confusion matrix** to introduce common scoring methods.
+   - Introduce the basic scoring method: *Precision*, *Recall* and *F1 scores*.
+   - **Receiver operating characteristic (ROC)** in logistic regression case.
