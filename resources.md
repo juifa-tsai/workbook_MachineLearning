@@ -14,8 +14,8 @@ The following :ballot_box_with_check: and :heavy_check_mark: mean the course/boo
 | Book | Source | Progress |  Note |
 | -------- | -------- | -------- | -------- |
 | <img src="doc/Python_Machine_Learning_RS.jpeg" height="200" width="200">    | [**Machine Learning in Python**, *Sebastian Raschka*](https://sebastianraschka.com/books.html)  | :ballot_box_with_check: | [Workbooks project 1](Machine_Learning_in_Python_SR) |
-| <img src="doc/Pattern_Recognition_and_Machine_Learning_Bishop.jpeg"  height="200" width="200" > | [**Pattern Recognition and Machine Learning**, *Christopher M. Bishop* ](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y) | :heavy_check_mark: |  The reference of [Workbooks project 1](Machine_Learning_in_Python_SR) |
 | <img src="doc/book_cover.png" height="200" width="200"> | [**Neural Network And Deeplearning**, *Michael Nielsen*](http://neuralnetworksanddeeplearning.com). | :ballot_box_with_check: |  [Workbooks project 2](Neural_Network_And_Deeplearning_MN) |
+| <img src="doc/Pattern_Recognition_and_Machine_Learning_Bishop.jpeg"  height="200" width="200" > | [**Pattern Recognition and Machine Learning**, *Christopher M. Bishop* ](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y) | :heavy_check_mark: |  The reference of [Workbooks project 1](Machine_Learning_in_Python_SR) |
 | <img src="doc/LearningFromData.png" height="200" width="200"> | [**Learning from Data**, *Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin*](http://amlbook.com). | :heavy_check_mark: | The reference of online course |
 
 ## Computing Sceince
