@@ -13,4 +13,4 @@ Model validation and parameters optimation are strongly correlatied the results 
 3. [example_03_scoringMethods](example_03_scoringMethods.ipynb)
    - Start from **Confusion matrix** to introduce common scoring methods.
    - Introduce the basic scoring method: *Precision*, *Recall* and *F1 scores*.
-   - **Receiver operating characteristic (ROC)** in logistic regression case.
+   - Introduce the behavoir of **Receiver operating characteristic (ROC)** with logistic regression model case.
