@@ -3,8 +3,8 @@ Model validation and parameters optimation are strongly correlatied the results 
 
 1. [example_01_validations](example_01_validations.ipynb)
    - Using **pipline** to simplify the process of fitting
-   - Achive the **k-fold cross-validation** by **scikit-learn**'s packages.
-   - Visualization of learning curve for checking overfitting problem.
+   - Achive the **Stratified k-fold cross-validation** by **scikit-learn**'s packages.
+   - Visualization of learning curve for checking overfitting issue.
 2. [example_02_optimations](example_02_optimations.ipynb)
    - Introduce **validation curve** to find the proper parameter value.
    - Perform simple case of parameter tuning in **regularization parameter**.
