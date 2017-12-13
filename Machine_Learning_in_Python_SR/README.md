@@ -51,12 +51,24 @@ Model validation and parameters optimation are strongly correlatied the results 
 * [example_02_optimations](Chapter_06/example_02_optimations.ipynb)
 * [example_03_scoringMethods](Chapter_06/example_03_scoringMethods.ipynb)
 
+## [Chapter 7 - Model aggregation](Chapter_07)
+
+## [Chapter 8 - Natural aanguage processing & Sentiment Analysis](Chapter_08)
+
+## [Chapter 9 - Model application on website](Chapter_09)
+
 ## [Chapter 10 - Regression models](Chapter_10)
 Foucus on **regression** case in **supervised** machine learning and give a example about **Exploratory Data Analysis** (EDA) for analyzing features. **Linear regression** with/without regularization cases,  
 * [example_01_EDA.ipynb](Chapter_10/example_01_EDA.ipynb)
 * [example_02_LinearRegressionGD](Chapter_10/example_02_LinearRegressionGD.ipynb)
 * [example_03_LinearRegressionSkLearn](Chapter_10/example_03_LinearRegressionSkLearn.ipynb)
 * [example_04_regularization_regression](Chapter_10/example_04_regularization_regression.ipynb)
+
+## [Chapter 11 - Unsupervised models](Chapter_11)
+
+## [Chapter 12 - Neural network](Chapter_12)
+
+## [Chapter 13 - Neural network application by Theano](Chapter_13)
 
 ---
 > **Scripts** \
