@@ -15,54 +15,57 @@ All the main contants and knowledges are refered to the book [**Machine Learning
 
 ## [Chapter 2 - Basic models of machine learning ](Chapter_02)
 Give the major concept and history of machine learning algorithm. Start from the **supervised learning**: **Perceptron learning algorithm (PLA)**, **Gradient decent algorithm** and **Stochastic gradient decent algorithm** by building own class.
-* [example_01_PLA](Chapter_02/example_01_PLA.ipynb)
-* [example_02_PLA](Chapter_02/example_02_PLA.ipynb)
-* [example_03_PLA](Chapter_02/example_03_PLA.ipynb)
-* [example_04_AdalineGD](Chapter_02/example_04_AdalineGD.ipynb)
-* [example_05_StochasticGD](Chapter_02/example_05_StochasticGD.ipynb)
+* [Example 1 - Perceptron Linear Algorith, PLA](Chapter_02/example_01_PLA.ipynb)
+* [Example 2 - PLA with shuffled data](Chapter_02/example_02_PLA.ipynb)
+* [Example 3 - Ensembling PLA hypotheses](Chapter_02/example_03_PLA.ipynb)
+* [example 4 - Adaptive Linear Neuron Gradian Decent](Chapter_02/example_04_AdalineGD.ipynb)
+* [example 5 - Stochastic Gradian Decent](Chapter_02/example_05_StochasticGD.ipynb)
 
 ## [Chapter 3 - Classification models](Chapter_03)
 Give several futher popular learning algorithms in current and foucs on **classification** case with **supervised learning** by using **Scikit-learn** tools, e.g. **PLA**, **Logist regession**, **Support Vector Machine (SVM)**, **decision tree**, **random forest** and **K-nearest neigbors (KNN)**.
-* [example_01_PLA](Chapter_03/example_01_PLA.ipynb)
-* [example_02_LogisticRegresion](Chapter_03/example_02_LogisticRegresion.ipynb)
-* [example_03_SVM](Chapter_03/example_03_SVM.ipynb)
-* [example_04_TreeAlgorithms](Chapter_03/example_04_TreeAlgorithms.ipynb)
-* [example_05_KNN](Chapter_03/example_05_KNN.ipynb)
+* [Example 1 - PLA by *scikit-learn* ](Chapter_03/example_01_PLA.ipynb)
+* [Example 2 - Logistic Regression](Chapter_03/example_02_LogisticRegression.ipynb)
+* [Example 3 - Support Vector Machine, SVM](Chapter_03/example_03_SVM.ipynb)
+* [Example 4 - Tree algorithms](Chapter_03/example_04_TreeAlgorithms.ipynb)
+* [Example 5 - k-Nearest Neighbor, KNN](Chapter_03/example_05_KNN.ipynb)
 
 ## [Chapter 4 - Preprocessing data, regularization methods](Chapter_04)
 Gives the basic examples for preprocessing data and introduceing the ***Regularization*** in machine learning, which is for dealing with the overfitting problem. Two Regularization methods, **L1** and **L2**, have clear comparison in this chapter. Except regularization, two feature selection algorithms are introduced: **Sequential backward selection (SBS)** and **Random forest**.
 
-* [example_01_Preprocessing](Chapter_04/example_01_Preprocessing.ipynb)
-* [example_02_Regularization](Chapter_04/example_02_Regularization.ipynb)
-* [example_03_FeatureSelection](Chapter_04/example_03_FeatureSelection.ipynb)
+* [Example 1 - Pre-processing with Data](Chapter_04/example_01_Preprocessing.ipynb)
+* [Example 2 - Regularization methods](Chapter_04/example_02_Regularization.ipynb)
+* [Example 3 - Feature selections](Chapter_04/example_03_FeatureSelection.ipynb)
 
 ## [Chapter 5 - Feature extraction and reduction](Chapter_05)
 Provide important topic about feature extraction and reduction. Several common method will be shown here, e.g. **Principal Component Analysis (PCA)**, **Fisher's Linear Discriminant Analysis (LDA)** and **Kernel PCA**. I also introduce the fundamental theories about **Kernel algorithm**.
 
-* [example_01_PCA](Chapter_05/example_01_PCA.ipynb)
-* [example_02_FisherLDA](Chapter_05/example_02_FisherLDA.ipynb)
-* [example_03_KernelPCA](Chapter_05/example_03_KernelPCA.ipynb)
+* [Example 1 - Principal Component Analysis, PCA](Chapter_05/example_01_PCA.ipynb)
+* [Example 2 - Fisher's Linear Discriminant Analysis, LDA](Chapter_05/example_02_FisherLDA.ipynb)
+* [Example 3 - Kernel PCA](Chapter_05/example_03_KernelPCA.ipynb)
 
 
 ## [Chapter 6 - Model validation and paramers optimation](Chapter_06)
 Model validation and parameters optimation are strongly correlatied the results of the learning. The validation can check and avoid the **underfitting** or **overfitting** problem during fitting before applying model to test or comming new data. The optimazation of superparameters can fine tune the model to fit better with the helps of validation. The method introduces here includes example of ***Pipline***, **K-fold cross-validation** and **nested cross-validation** etc....   
 
-* [example_01_validations](Chapter_06/example_01_validations.ipynb)
-* [example_02_optimations](Chapter_06/example_02_optimations.ipynb)
-* [example_03_scoringMethods](Chapter_06/example_03_scoringMethods.ipynb)
+* [Example 1 - Validation methods](Chapter_06/example_01_validations.ipynb)
+* [Example 2 - Model selections](Chapter_06/example_02_optimations.ipynb)
+* [Example 3 - Scoring methods](Chapter_06/example_03_scoringMethods.ipynb)
 
 ## [Chapter 7 - Model aggregation](Chapter_07)
+The methods can ensemble the models a meta-model which can be used either in classification and regression case. The concept is for reducing the bias of model dependency, and it also can be view as an alternative way of regularization. The aggregation models introduced in this chapter are : **Majority votting**
 
-## [Chapter 8 - Natural aanguage processing & Sentiment Analysis](Chapter_08)
+* [Example 1 - Majority Votting method](Chapter_07/example_01_majorityVote.ipynb)
+
+## [Chapter 8 - Natural language processing & Sentiment Analysis](Chapter_08)
 
 ## [Chapter 9 - Model application on website](Chapter_09)
 
 ## [Chapter 10 - Regression models](Chapter_10)
 Foucus on **regression** case in **supervised** machine learning and give a example about **Exploratory Data Analysis** (EDA) for analyzing features. **Linear regression** with/without regularization cases,  
-* [example_01_EDA.ipynb](Chapter_10/example_01_EDA.ipynb)
-* [example_02_LinearRegressionGD](Chapter_10/example_02_LinearRegressionGD.ipynb)
-* [example_03_LinearRegressionSkLearn](Chapter_10/example_03_LinearRegressionSkLearn.ipynb)
-* [example_04_regularization_regression](Chapter_10/example_04_regularization_regression.ipynb)
+* [Example 1 - Exploratory Data Analysis, EDA](Chapter_10/example_01_EDA.ipynb)
+* [Example 2 - Linear Gredian Decent Regression ](Chapter_10/example_02_LinearRegressionGD.ipynb)
+* [Example 3 - Linear Regression with *scikit-learn*](Chapter_10/example_03_LinearRegressionSkLearn.ipynb)
+* [Example 4 - Regularization in Regression models](Chapter_10/example_04_regularization_regression.ipynb)
 
 ## [Chapter 11 - Unsupervised models](Chapter_11)
 
