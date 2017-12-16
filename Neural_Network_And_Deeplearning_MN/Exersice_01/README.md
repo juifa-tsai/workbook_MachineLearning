@@ -4,7 +4,7 @@ Introduce the **Dence Nearual Network (DNN)** algorithm with **[MNIST](http://ya
 1. [Example 1 - First Training of MNIST](Example_01_FirstMNIST.ipynb)
    - Give the complete derivation equations of **backpropagation** basing on the books.
    - First import, visualize and train MNIST data.
-   - **Active function** : *sigmoid function*, detial see [Logistic regression](../../Machine_Learning_in_Python_SR/Chapter_03/example_02_LogisticRegression.ipynb) as well.
+   - **Active function** : *sigmoid function*, detail see [Logistic regression](../../Machine_Learning_in_Python_SR/Chapter_03/example_02_LogisticRegression.ipynb) as well.
    - **Cost function**   : *mean squared error*.
 
 ---
