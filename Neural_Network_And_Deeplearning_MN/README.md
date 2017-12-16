@@ -1,7 +1,7 @@
 # Neural Network and Deeplearning (Michael Nielsen)
 The more advance and popular machine learning method is Neural Network and Deeplearning reacenly, although the idea of algorithm has been discussed decades. Since the improved technology in the hardware, the computing resouce has been changed and more powerful. Some complex and non-linear algorithms can be achieved. There are many achieved application in the different field of industries and academies. It looks a black box to solve several difficult problems in current, but the mechanism and concept behind it is actullay non-trivial. All its knowledges and properties can be observed from the math. The [online-book](http://neuralnetworksanddeeplearning.com), written by *Michael Nielsen*, provides the clear insight of neural network and inspiring exersices. I summerize the all insight and exersices of his online-book in this workbook for the tutorials or records.
 
-The programing language focus on **Python** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the process of machine learning from data.
+The programing language focus on **Python** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They are very useful to demonstrate the process of machine learning from data.
 
 <img src="../doc/book_cover.png" height="300">
 
