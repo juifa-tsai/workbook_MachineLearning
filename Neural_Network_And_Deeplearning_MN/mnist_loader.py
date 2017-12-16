@@ -12,20 +12,20 @@ import gzip
 # Third-party libraties
 import numpy as np
 
-def load_data():
+def load_data(datapath='data/mnist.pkl.gz'):
 
-    f = gzip.open('data/mnist.pkl.gz', 'rb')
+    f = gzip.open(datapath, 'rb')
     training_data, validation_data, test_data = cPickle.load(f)
     f.close()
     return (training_data, validation_data, test_data)
 
 
-def load_data_wapper():
+def load_data_wapper(datapath='data/mnist.pkl.gz'):
 
-    tr_d, va_d, te_d = load_data()
+    tr_d, va_d, te_d = load_data(datapath)
 
     training_inputs   = [np.reshape(x, (784, 1)) for x in tr_d[0]]
-    training_results  = [vectorixed_result(y) for y in tr_d[1]] # for NN with 10x1 matrix 
+    training_results  = [vectorized_result(y) for y in tr_d[1]] # for NN with 10x1 matrix 
     training_data     = zip(training_inputs, training_results)
 
     validation_inputs = [np.reshape(x, (784, 1)) for x in va_d[0]]

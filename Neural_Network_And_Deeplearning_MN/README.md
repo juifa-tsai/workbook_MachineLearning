@@ -7,9 +7,9 @@ The programing language focus on **Python** and **numpy**. The performance and v
 
 （Picture credited by [link](http://michaelnielsen.org))
 
-## [Exersice 1 - Introduction of Dense Neural Network](Chapter_01)
-Introduce the **Dence Nearual Network (DNN)** algorithm with **[MNIST](http://yann.lecun.com/exdb/mnist/)** data for recognizing hand-written numbers. The programing language is using Python with **Numpy** package.
-- Forward training and backward error propagation (**backpropagation**).
+## [Exersice 1 - Introduction of Dense Neural Network](Exersice_01)
+Introduce the **Dence Nearual Network (DNN)** algorithm with **[MNIST](http://yann.lecun.com/exdb/mnist/)** data for recognizing hand-written numbers. The programing language is using Python with **Numpy** package. This exersice is correspoding to [Chapter 1](http://neuralnetworksanddeeplearning.com/chap1.html) and [Chapter 2](http://neuralnetworksanddeeplearning.com/chap2.html) of the book.
+- [Example 1 - First Training of MNIST](Example_01_FirstMNIST.ipynb)
 
-## [Exersice 2 - Improved Neural Network](Chapter_02)
+## [Exersice 2 - Improved Neural Network](Exersice_02)
 Basing on the previous exersice, we start to deeply discuss the properties of neural network and try to improve it by serval altinative ways. The improving methods are basing on modifing the math behind it, we change the active functions or cost functions in hidden layer and output layer. We also introduce the effect of regularizations in neural network. In the end, the improvement of weights initialization for input layer is provieded as well.  
