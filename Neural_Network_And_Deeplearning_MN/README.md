@@ -1,5 +1,5 @@
 # Neural Network and Deeplearning (Michael Nielsen)
-The more advance and popular machine learning method is Neural Network and Deeplearning reacenly, although the idea of algorithm has been discussed decades. Since the improved technology in the hardware, the computing resouce has been changed and more powerful. Some complex and non-linear algorithms can be achieved. We will follow an [online-book](http://neuralnetworksanddeeplearning.com), written by *Michael Nielsen*, to give the exersice examples.
+The more advance and popular machine learning method is Neural Network and Deeplearning reacenly, although the idea of algorithm has been discussed decades. Since the improved technology in the hardware, the computing resouce has been changed and more powerful. Some complex and non-linear algorithms can be achieved. There are many achieved application in the different field of industries and academies. It looks a black box to solve several difficult problems in current, but the mechanism and concept behind it is actullay non-trivial. All its knowledges and properties can be observed from the math. The [online-book](http://neuralnetworksanddeeplearning.com), written by *Michael Nielsen*, provides the clear insight of neural network and inspiring exersices. I summerize the all insight and exersices of his online-book in this workbook for the tutorials or records.
 
 The programing language focus on **Python** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the process of machine learning from data.
 
@@ -7,7 +7,11 @@ The programing language focus on **Python** and **numpy**. The performance and v
 
 （Picture credited by [link](http://michaelnielsen.org))
 
-## [Exersice 1 - DNN](Chapter_01)
+## [Exersice 1 - Introduction of Dense Neural Network](Chapter_01)
 Introduce the **Dence Nearual Network (DNN)** algorithm with **[MNIST](http://yann.lecun.com/exdb/mnist/)** data for recognizing hand-written numbers. The programing language is using Python with **Numpy** package.
+- Forward training and backward error propagation (**backpropagation**).
 
 * [example_01_MINST_DNN](Chapter_02/example_01_MINIST_DNN.ipynb)
+
+## [Exersice 2 - Improved Neural Network](Chapter_02)
+Basing on the previous exersice, we start to deeply discuss the properties of neural network and try to improve it by serval altinative ways. The improving methods are basing on modifing the math behind it, we change the active functions or cost functions in hidden layer and output layer. We also introduce the effect of regularizations in neural network. In the end, the improvement of weights initialization for input layer is provieded as well.  
