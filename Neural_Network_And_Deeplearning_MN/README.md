@@ -11,7 +11,5 @@ The programing language focus on **Python** and **numpy**. The performance and v
 Introduce the **Dence Nearual Network (DNN)** algorithm with **[MNIST](http://yann.lecun.com/exdb/mnist/)** data for recognizing hand-written numbers. The programing language is using Python with **Numpy** package.
 - Forward training and backward error propagation (**backpropagation**).
 
-* [example_01_MINST_DNN](Chapter_02/example_01_MINIST_DNN.ipynb)
-
 ## [Exersice 2 - Improved Neural Network](Chapter_02)
 Basing on the previous exersice, we start to deeply discuss the properties of neural network and try to improve it by serval altinative ways. The improving methods are basing on modifing the math behind it, we change the active functions or cost functions in hidden layer and output layer. We also introduce the effect of regularizations in neural network. In the end, the improvement of weights initialization for input layer is provieded as well.  
