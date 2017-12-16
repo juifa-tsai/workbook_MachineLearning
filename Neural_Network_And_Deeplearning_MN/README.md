@@ -7,8 +7,8 @@ The programing language focus on **Python** and **numpy**. The performance and v
 
 （Picture credited by [link](http://michaelnielsen.org))
 
-## [Exersice 1 - Introduction of Dense Neural Network](Exersice_01)
-Introduce the **Dence Nearual Network (DNN)** algorithm with **[MNIST](http://yann.lecun.com/exdb/mnist/)** data for recognizing hand-written numbers. The programing language is using Python with **Numpy** package. This exersice is correspoding to [Chapter 1](http://neuralnetworksanddeeplearning.com/chap1.html) and [Chapter 2](http://neuralnetworksanddeeplearning.com/chap2.html) of the book.
+## [Exersice 1 - Introduction of Neural Network](Exersice_01)
+Introduce the **Nearual Network (NN)** algorithm with **[MNIST](http://yann.lecun.com/exdb/mnist/)** data for recognizing hand-written numbers. The programing language is using Python with **Numpy** package. This exersice is correspoding to [Chapter 1](http://neuralnetworksanddeeplearning.com/chap1.html) and [Chapter 2](http://neuralnetworksanddeeplearning.com/chap2.html) of the book.
 - [Example 1 - Backpropagation and first MNIST training](Exersice_01/Example_01_FirstMNIST.ipynb)
 
 ## [Exersice 2 - Improved Neural Network](Exersice_02)
