@@ -36,8 +36,8 @@ class MajorityVoteClassifier( BaseEstimator, ClassifierMixin ):
                 maj_vote = np.argmax(self.predict_proba(X), axis=1)
             else:
                 predictions = np.array([clf.predict(X) for clf in self.classifiers_]).T
-                maj_vote = np.array_along_axis(lambda x: np.argmax(np.bincount(x, weights=self.weights)), axis=1, arr=predictions)
-            maj_vote = self.lablenc_.inverse_transform(maj_vote)
+                maj_vote = np.apply_along_axis(lambda x: np.argmax(np.bincount(x, weights=self.weights)), axis=1, arr=predictions)
+            maj_vote = self.labelenc_.inverse_transform(maj_vote)
             return maj_vote
 
 
