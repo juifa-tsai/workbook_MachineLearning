@@ -17,18 +17,22 @@ class MajorityVoteClassifier( BaseEstimator, ClassifierMixin ):
             self.classifiers = classifiers
             self.name_classifiers = {key: value for key, value in _name_estimators(classifiers)}
 
+
         def fit(self, X, y):
+            # Encode the y to make sure all the values is same 
             self.labelenc_ = LabelEncoder()
             self.labelenc_.fit(y)
             self.classes_ = self.labelenc_.classes_
+            # Collect the fitted classifiers
             self.classifiers_ = []
             for clf in self.classifiers:
                 fitted_clf = clone(clf).fit(X, self.labelenc_.transform(y))
                 self.classifiers_.append(fitted_clf)
             return self
 
+
         def predict(self, X):
-            if self.vote = 'probability':
+            if self.vote == 'probability':
                 maj_vote = np.argmax(self.predict_proba(X), axis=1)
             else:
                 predictions = np.array([clf.predict(X) for clf in self.classifiers_]).T
@@ -36,10 +40,12 @@ class MajorityVoteClassifier( BaseEstimator, ClassifierMixin ):
             maj_vote = self.lablenc_.inverse_transform(maj_vote)
             return maj_vote
 
+
         def predict_proba(self, X):
             probas = np.asarray([clf.predict_proba(X) for clf in self.classifiers_])
             avg_proba = np.average(probas, axis=0, weights=self.weights)
             return avg_proba
+
 
         def get_params(self, deep=True):
             if not deep:
