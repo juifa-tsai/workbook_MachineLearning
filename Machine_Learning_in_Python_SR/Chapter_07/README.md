@@ -3,5 +3,7 @@ Model aggregations (ensemble methods) are the methods to ensemble or average the
 
 1. [example_01_majorityVote](example_01_majorityVote.ipynb)
    - Introduce the **ensemble error**
-   - Introduce the **Majority votting** method.
+   - Introduce the **Majority votting** method with counting maximum vote and average probability.
+   - Demonstrates the full procedure to train an ensembled model.
+   - Visualize ROC, decision regions and hyperparameter optimization.
 2.
