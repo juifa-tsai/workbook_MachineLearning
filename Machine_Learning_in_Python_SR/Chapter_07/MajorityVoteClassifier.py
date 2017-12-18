@@ -51,8 +51,8 @@ class MajorityVoteClassifier( BaseEstimator, ClassifierMixin ):
             if not deep:
                 return super(MajorityVoteClassifier, self).get_params(deep=False)
             else:
-                out = self.named_classifiers.copy()
-                for name, step in six.iteritems(self.named_classifiers):
+                out = self.name_classifiers.copy()
+                for name, step in six.iteritems(self.name_classifiers):
                     for key, value in six.iteritems(step.get_params(deep=True)):
                         out['%s__%s'%(name, key)] = value
                 return out
