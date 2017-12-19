@@ -16,11 +16,11 @@ All the main contants and knowledges are refered to the book [**Machine Learning
 
 ## [Chapter 2 - Basic models of machine learning ](Chapter_02)
 Give the major concept and history of machine learning algorithm. Start from the **supervised learning**: **Perceptron learning algorithm (PLA)**, **Gradient decent algorithm** and **Stochastic gradient decent algorithm** by building own class.
-* [Example 1 - Perceptron Linear Algorith, PLA](Chapter_02/example_01_PLA.ipynb)
-* [Example 2 - PLA with shuffled data](Chapter_02/example_02_PLA.ipynb)
-* [Example 3 - Ensembling PLA hypotheses](Chapter_02/example_03_PLA.ipynb)
-* [Example 4 - Adaptive Linear Neuron Gradian Decent](Chapter_02/example_04_AdalineGD.ipynb)
-* [Example 5 - Stochastic Gradian Decent](Chapter_02/example_05_StochasticGD.ipynb)
+* [Example 1 - Perceptron Linear Algorith, PLA](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_01_PLA.ipynb)
+* [Example 2 - PLA with shuffled data](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_02_PLA.ipynb)
+* [Example 3 - Ensembling PLA hypotheses](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_03_PLA.ipynb)
+* [Example 4 - Adaptive Linear Neuron Gradian Decent](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_04_AdalineGD.ipynb)
+* [Example 5 - Stochastic Gradian Decent](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_05_StochasticGD.ipynb)
 
 ## [Chapter 3 - Classification models](Chapter_03)
 Give several futher popular learning algorithms in current and foucs on **classification** case with **supervised learning** by using **Scikit-learn** tools, e.g. **PLA**, **Logist regession**, **Support Vector Machine (SVM)**, **decision tree**, **random forest** and **K-nearest neigbors (KNN)**.
