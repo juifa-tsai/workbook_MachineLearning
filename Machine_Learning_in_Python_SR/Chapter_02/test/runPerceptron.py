@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from Perceptron import Perceptron
 
-df = pd.read_csv('iris.data', header=None)
+df = pd.read_csv('../data/iris.data', header=None)
 print df.tail()
 
 # Filling y and X

@@ -8,3 +8,7 @@ jupyter notebook
 ```
 jupyter nbconvert --to script [YOUR_NOTEBOOK].ipynb
 ```
+
+# For script
+./chname.csh . "'wine.data'" "'../data/wine.data'"
+./chname.csh . "'wdbc.data'" "'../data/wdbc.data'"
