@@ -1,20 +1,29 @@
 # Chapter 2 : Basic models of machine learning
 This chapter give the introduction about the basic machine learning (ML) and start from classification case: ***linear perceptron***, ***adoptive linear perceptron*** and ***gradient decent algorithm*** etc. Before going to next chapter to using online open-source ML package, **scikit-learn**, we build the own ML class by **pandas** and **numpy** package. We also perform and visisulize the results with **matplotlib** and **ipython** packges. This is not only focusing on implement part but demonstrate the detail caculation and theories behinde the models. Some exmaples also give the optimaztion test which extends from the book. The exercises are all using iris data.  
 
-1. [**Example 1 - Perceptron Linear Algorith, PLA**](example_01_PLA.ipynb) @ *example_01_PLA.ipynb*
+1. [**Example 1 - Perceptron Linear Algorith, PLA**](example_01_PLA.ipynb)
    - Apply `Perceptron` to data, [iris.data](Chapter_02/iris.data) , to demonstrate the learing process.
-2. [**Example 2 - PLA with shuffled data**](example_02_PLA.ipynb) @ *example_02_PLA.ipynb*
-3. [**Example 3 - Ensembling PLA hypotheses**](example_03_PLA.ipynb) @ *example_03_PLA.ipynb*
-4. [**Example 4 - Adaptive Linear Neuron Gradian Decent**](example_04_AdalineGD.ipynb) @ *example_04_AdalineGD.ipynb*
-5. [**Example 5 - Stochastic Gradian Decent**](example_05_StochasticGD.ipynb) @ *example_05_StochasticGD.ipynb*
+2. [**Example 2 - PLA with shuffled data**](example_02_PLA.ipynb)
+3. [**Example 3 - Ensembling PLA hypotheses**](example_03_PLA.ipynb)
+4. [**Example 4 - Adaptive Linear Neuron Gradian Decent**](example_04_AdalineGD.ipynb)
+5. [**Example 5 - Stochastic Gradian Decent**](example_05_StochasticGD.ipynb)
 
 ---
-> **Functions and class**\
-> [Perceptron.py](Perceptron.py) : class `Perceptron` for perceptron algorithm. \
-> [Perceptron_online.py](Perceptron_online.py) : class `Perceptron_online` \
-> [AdalineGD.py](AdalineGD.py) : class `AdalineGD` \
-> [AdalineGD_online.py](AdalineGD_online.py) : class `AdalineGD_online` \
-> [plot_decision_regions.py](plot_decision_regions.py) : function `plot_decision_regions`
+###### Correspoding example codes
+* Example 1 @ [example_01_PLA.ipynb](example_01_PLA.ipynb)
+* Example 2 @ [example_02_PLA.ipynb](example_02_PLA.ipynb)
+* Example 3 @ [example_03_PLA.ipynb](example_03_PLA.ipynb)
+* Example 4 @ [example_04_AdalineGD.ipynb](example_04_AdalineGD.ipynb)
+* Example 5 @ [example_05_StochasticGD.ipynb](example_05_StochasticGD.ipynb)
+
+###### Functions and classes  
+* [Perceptron.py](Perceptron.py) : class `Perceptron` for perceptron algorithm. \
+* [Perceptron_online.py](Perceptron_online.py) : class `Perceptron_online` \
+* [AdalineGD.py](AdalineGD.py) : class `AdalineGD` \
+* [AdalineGD_online.py](AdalineGD_online.py) : class `AdalineGD_online` \
+* [plot_decision_regions.py](plot_decision_regions.py) : function `plot_decision_regions`
+
+---
 
 ### Perceptron algorithm
 * It is online method, i.e. update weighting in each data point.
