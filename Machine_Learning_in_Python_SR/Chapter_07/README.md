@@ -13,7 +13,7 @@ Model aggregations (ensemble methods) are the methods to ensemble or average the
 ###### Correspoding example codes
 * Example 1 @ [example_01_majorityVote.ipynb](example_01_majorityVote.ipynb)  
 
-:warning: NOTE : if the example code (`*.ipynb`) can't be loaded, please *"copy"* the github URL and *"paste"* to [https://nbviewer.jupyter.org](https://nbviewer.jupyter.org) :warning:
+:warning: If the example code (`*.ipynb`) can't be loaded, please *"copy"* the Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:
 
 ###### Functions and classes  
 * [MajorityVoteClassifier.py](MajorityVoteClassifier.py) : class `MajorityVoteClassifier` for Majority Vote Classification method.
