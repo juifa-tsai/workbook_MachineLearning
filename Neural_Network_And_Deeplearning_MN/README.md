@@ -7,7 +7,7 @@ The programing language focus on **Python** and **numpy**. The performance and v
 
 （Picture credited by [link](http://michaelnielsen.org))
 
-##### :warning: If the example code (`*.ipynb`) can't be loaded, please *"copy"* the Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:
+##### :warning: If the example code (`*.ipynb`) can't be loaded, please *"copy"* its Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:
 
 ## [Exersice 1 - Introduction of Neural Network](Exersice_01)
 Introduce the **Nearual Network (NN)** algorithm with **[MNIST](http://yann.lecun.com/exdb/mnist/)** data for recognizing hand-written numbers. The programing language is using Python with **Numpy** package. This exersice is correspoding to [Chapter 1](http://neuralnetworksanddeeplearning.com/chap1.html) and [Chapter 2](http://neuralnetworksanddeeplearning.com/chap2.html) of the book.

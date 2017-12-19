@@ -18,6 +18,8 @@ This chapter gives the examples for feature extrcation and reduction which are v
 * Example 2 @ [example_02_FisherLDA.ipynb](example_02_FisherLDA.ipynb)
 * Example 3 @ [example_03_KernelPCA.ipynb](example_03_KernelPCA.ipynb)
 
+:warning: **If the example code (`*.ipynb`) can't be loaded, please *"copy"* its Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:**
+
 ###### Functions and classes
 * [plot_decision_regions.py](plot_decision_regions.py) : function `plot_decision_regions`
-* [rbf_kernel_pca.py](rbf_kernel_pca.py) : function `rbf_kernel_pca`
+* [rbf_kernel_pca.py](rbf_kernel_pca.py) : function `rbf_kernel_pca` for RBF kernel PCA.

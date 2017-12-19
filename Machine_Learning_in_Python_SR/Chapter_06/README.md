@@ -20,3 +20,5 @@ Model validation and parameters optimation are strongly correlatied the results 
 * Example 1 @ [example_01_validations.ipynb](example_01_validations.ipynb)
 * Example 2 @ [example_02_optimations.ipynb](example_02_optimations.ipynb)
 * Example 3 @ [example_03_scoringMethods.ipynb](example_03_scoringMethods.ipynb)
+
+:warning: **If the example code (`*.ipynb`) can't be loaded, please *"copy"* its Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:**

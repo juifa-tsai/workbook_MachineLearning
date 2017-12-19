@@ -19,5 +19,7 @@ This chapter gives the basic examples for pre-processing data. Several tools can
 * Example 2 @ [example_02_Regularization.ipynb](example_02_Regularization.ipynb)
 * Example 3 @ [example_03_FeatureSelection.ipynb](example_03_FeatureSelection.ipynb)
 
+:warning: **If the example code (`*.ipynb`) can't be loaded, please *"copy"* its Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:**
+
 ###### Functions and classes
 * [sbs.py](sbs.py) : class `SBS` for Sequential backward selection (SBS) method.

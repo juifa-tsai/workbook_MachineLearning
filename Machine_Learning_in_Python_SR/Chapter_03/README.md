@@ -21,5 +21,7 @@ This chapter gives the tutorial of popular classification algorithm with **sciki
 * Example 4 @ [example_04_TreeAlgorithms.ipynb](example_04_TreeAlgorithms.ipynb)
 * Example 5 @ [example_05_KNN.ipynb](example_05_KNN.ipynb)
 
+:warning: **If the example code (`*.ipynb`) can't be loaded, please *"copy"* its Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:**
+
 ###### Functions and classes
 * [plot_decision_regions.py](plot_decision_regions.py) : function `plot_decision_regions`

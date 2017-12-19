@@ -12,7 +12,7 @@ All the main contants and knowledges are refered to the book [**Machine Learning
 
 （Pictures credited by link-[1](https://books.google.com.tw/books/about/Python_Machine_Learning.html?id=GOVOCwAAQBAJ&source=kp_cover&redir_esc=y), [2](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y) and [3](https://www.youtube.com/watch?v=tDq_CSzFRYA&t=7s)）
 
-##### :warning: If the example code (`*.ipynb`) can't be loaded, please *"copy"* the Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:
+##### :warning: If the example code (`*.ipynb`) can't be loaded, please *"copy"* its Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:
 
 ## [Chapter 2 - Basic models of machine learning ](Chapter_02)
 Give the major concept and history of machine learning algorithm. Start from the **supervised learning**: **Perceptron learning algorithm (PLA)**, **Gradient decent algorithm** and **Stochastic gradient decent algorithm** by building own class.
