@@ -1,16 +1,16 @@
 # Chapter 3 : Classification models
 This chapter gives the tutorial of popular classification algorithm with **scikit-learn** python package: ***linear perceptron***, ***logistic regression***, ***suport vector machine*** (SVM), ***Kernel SVM***, ***Decision tree***, ***Random forest*** and ***KNN***. The implement with sklearn package is used here, and the theories behine each models are also provided in detail. Some optimation and parameter tuning are perfromed in following examples as well. The exercises are all using iris data.  
 
-- [Example 1 - PLA by scikit-learn](example_01_PLA.ipynb)
-- [Example 2 - Logistic Regression](example_02_LogisticRegression.ipynb)
+- [**Example 1 - PLA by scikit-learn**](example_01_PLA.ipynb)
+- [**Example 2 - Logistic Regression**](example_02_LogisticRegression.ipynb)
    - Concept and practice of **Logist regrssion**  
    - First introduciton of **L2 regularization**.
-- [Example 3 - Support Vector Machine, SVM](example_03_SVM.ipynb)
+- [**Example 3 - Support Vector Machine, SVM**](example_03_SVM.ipynb)
    - **Support vecter machine**
-- [Example 4 - Tree algorithms](example_04_TreeAlgorithms.ipynb)
+- [**Example 4 - Tree algorithms**](example_04_TreeAlgorithms.ipynb)
    - Inclusding **decision tree** algorithm with different active function
    - Small exercise about **Random forest**.
-- [Example 5 - k-Nearest Neighbor, KNN](example_05_KNN.ipynb)
+- [**Example 5 - k-Nearest Neighbor, KNN**](example_05_KNN.ipynb)
    - Give the sense of effects of distance matric in ***K*** **nearest neighbor** algorithm.
 
 ---
