@@ -52,9 +52,10 @@ Model validation and parameters optimation are strongly correlatied the results 
 * [Example 3 - Scoring methods](Chapter_06/example_03_scoringMethods.ipynb)
 
 ## [Chapter 7 - Model aggregation](Chapter_07)
-The methods can ensemble the models a meta-model which can be used either in classification and regression case. The concept is for reducing the bias of model dependency, and it also can be view as an alternative way of regularization. The aggregation models introduced in this chapter are : **Majority voting**
+The methods can ensemble the models a meta-model which can be used either in classification and regression case. The concept is for reducing the bias of model dependency, and it also can be view as an alternative way of regularization. The aggregation models introduced in this chapter are : **Majority voting Aggregation**
 
-* [Example 1 - Majority Voting method](Chapter_07/example_01_majorityVote.ipynb)
+* [Example 1 - Majority Voting Aggregation](Chapter_07/example_01_majorityVote.ipynb)
+* [Example 2 - Boostrap Aggregation](Chapter_07/example_02_boostrap.ipynb)
 
 ## [Chapter 8 - Natural language processing & Sentiment Analysis](Chapter_08)
 
