@@ -5,7 +5,7 @@ The artificial intellegent (AI) has been a popular searching keyword in any fiel
 All the technologies and theories which inspire and lead the following two workbooks are from several online metirials, courses and books, which I have learned since June of 2017. These good resources of AI and machine learning knowledges are well collected, recored and listed in :point_right: [:file_folder: **resources.md**](resources.md). For a beginner, they can help you to know the insight of machine learning systematically, rather than only learning the coding techniques or the tool usages. I beilive *"technology comes, technology go, but insight is forever"*.
 
 ## Workbook projects
-##### :warning: NOTE : if you can not open any `.ipynb` exmpale code, please *"copy"* the URL link and *"paste"* to [https://nbviewer.jupyter.org](https://nbviewer.jupyter.org) :warning:
+##### :warning: NOTE : if the example code (`*.ipynb`) can't be loaded, please *"copy"* the github URL and *"paste"* to [https://nbviewer.jupyter.org](https://nbviewer.jupyter.org) :warning:
 
 ### [**1. Machine learning in Python**](Machine_Learning_in_Python_SR)
 The programing language focus on **Python**, and the packages of machine learning models are using **scikit-learn**, **pandas** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the processes of analysis from data. Sometimes **Scipy** are used.
