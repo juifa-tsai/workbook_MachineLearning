@@ -1,10 +1,10 @@
 # Chapter 10 : Regression models
 This chapter gives the tutorial of popular regression algorithms with **scikit-learn** package including **regularization** cases: ***linear regression***. The implement with sklearn package is used here, and the theories behine each models are also provided in detail. Some optimation and parameter tuning are perfromed in following examples as well.
 
-- [Example 1 - Exploratory Data Analysis, EDA](example_01_EDA.ipynb)
-- [Example 2 - Linear Gredian Decent Regression](example_02_LinearRegressionGD.ipynb)
-- [Example 3 - Linear Regression with scikit-learn](example_03_LinearRegressionSkLearn.ipynb)
--  [Example 4 - Regularization in Regression models](example_04_regularization_regression.ipynb)
+- [Example 1 - Exploratory Data Analysis, EDA](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_10/example_01_EDA.ipynb)
+- [Example 2 - Linear Gredian Decent Regression](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_10/example_02_LinearRegressionGD.ipynb)
+- [Example 3 - Linear Regression with scikit-learn](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_10/example_03_LinearRegressionSkLearn.ipynb)
+-  [Example 4 - Regularization in Regression models](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_10/example_04_regularization_regression.ipynb)
 
 ---
 ###### Correspoding example codes
