@@ -77,8 +77,11 @@ Foucus on **regression** case in **supervised** machine learning and give a exam
 
 ---
 > **Scripts** \
-> [command.md](command.md) : shows the common and useful command lines. \
-> [py2ipy.py](py2ipy.py) : convert .py to .ipynb.\
+> [py2ipy.py](py2ipy.py) : convert .py to .ipynb.  
   ```
   python py2ipy.py --inpy file.py
+  ```
+> [reWord.csh](reWord.csh) : change file's word of content
+  ```
+  ./reWord.csh [path] [text1] [text2]
   ```
