@@ -55,7 +55,7 @@ Model validation and parameters optimation are strongly correlatied the results 
 The methods can ensemble the models a meta-model which can be used either in classification and regression case. The concept is for reducing the bias of model dependency, and it also can be view as an alternative way of regularization. The aggregation models introduced in this chapter are : **Majority voting Aggregation**
 
 * [Example 1 - Majority Voting Aggregation](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_01_majorityVote.ipynb)
-* [Example 2 - Boostrap Aggregation](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_02_boostrap.ipynb)
+* [Example 2 - Bootstrap Aggregation](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_02_bootstrap.ipynb)
 
 ## [Chapter 8 - Natural language processing & Sentiment Analysis](Chapter_08/README.md)
 

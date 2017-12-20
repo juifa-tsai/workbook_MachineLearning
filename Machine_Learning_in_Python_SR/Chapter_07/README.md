@@ -7,13 +7,13 @@ Model aggregations (ensemble methods) are the methods to ensemble or average the
    - Demonstrates the full procedure to train an ensembled model.
    - Visualize ROC, decision regions and hyperparameter optimization.
 
-- [**Example 2 - Boostrap Aggregation**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_02_boostrap.ipynb)
+- [**Example 2 - Bootstrap Aggregation**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_02_bootstrap.ipynb)
 
 ---
 ###### Correspoding example codes
 * Chapter 7 @ [Chapter_07](.)
 * Example 1 @ [example_01_majorityVote.ipynb](example_01_majorityVote.ipynb)
-* Example 2 @ [example_02_boostrap.ipynb](example_02_boostrap.ipynb)   
+* Example 2 @ [example_02_bootstrap.ipynb](example_02_bootstrap.ipynb)   
 
 :warning: **If the example code (`*.ipynb`) can't be loaded, please *"copy"* its Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:**
 
