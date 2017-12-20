@@ -5,12 +5,11 @@ Several models of machine learning intruduced in this workbooks include  **class
 
 The programing language focus on **Python**, and the packages of machine learning models are using **scikit-learn** (v 0.20), **pandas** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the processes of analysis from data. Sometimes **Scipy** are used.
 
-All the main contants and knowledges are refered to the book [**Machine Learning in Python**, *Sebastian Raschka*](https://sebastianraschka.com/books.html). Several detial theories and mathematical methods are inspired by the book [**Pattern Recognition and Machine Learning**, *Christopher M. Bishop* ](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y), and online course [**Machine Learning Foundations/Techniques**, *Hsuan-Tien Lin*](https://www.csie.ntu.edu.tw/~htlin/).
+All the main contants and knowledges are refered to the book [**Machine Learning in Python**, *Sebastian Raschka*](https://sebastianraschka.com/books.html). Several detial theories and mathematical methods are inspired by the book [**Pattern Recognition and Machine Learning**, *Christopher M. Bishop* ](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y), , and online courses, detail listed in [resources.md](resources.md).
 
 <img src="../doc/Python_Machine_Learning_RS.jpeg" height="300"> <img src="../doc/Pattern_Recognition_and_Machine_Learning_Bishop.jpeg"  height="300">
-<img src="../doc/Lin.jpg"  height="200">
 
-（Pictures credited by link-[1](https://books.google.com.tw/books/about/Python_Machine_Learning.html?id=GOVOCwAAQBAJ&source=kp_cover&redir_esc=y), [2](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y) and [3](https://www.youtube.com/watch?v=tDq_CSzFRYA&t=7s)）
+（Pictures credited by link-[1](https://books.google.com.tw/books/about/Python_Machine_Learning.html?id=GOVOCwAAQBAJ&source=kp_cover&redir_esc=y) and [2](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y)）
 
 ##### :warning: If the example code (`*.ipynb`) can't be loaded, please *"copy"* its Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:
 
