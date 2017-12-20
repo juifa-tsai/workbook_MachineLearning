@@ -1,4 +1,4 @@
-# Machine Learning in Python (Sebastian Raschka)
+# Machine Learning in Python
 The book, **Machine Learning in Python**  written by *Sebastian Raschka*, demonstrates and well explaines the motheds and perfomances of ML and data analysis. It does not just provide the application the codes, but the theories behine the ML models are also clear. However, beyond following this book, I also provide a lot of extra tutorials (exersices) for optimation, debugging and test for each cases, whcih based on the inspiration of my expreinces of physics analysis. Some theories in this book may not easy to understand, I also provide clearly derivations and examples if it needs. Thus, this workbook is not just simply demostrating the codes from books, but giving the advance exersices and clear insight of models, since I beilive *"Technology comes, technology goes, but insight is forever"*.
 
 Several models of machine learning intruduced in this workbooks include  **classification** and **regession** cases, and **supervisied** and **unsupervised** learners. Simple examples about data structure for anaylsis with some common tools, which can be done in **Pyhton**, are also provided. In the end, **Nature Language** and **Nueal network** are simply introduced and demonstrated.
@@ -13,7 +13,7 @@ All the main contants and knowledges are refered to the book [**Machine Learning
 
 ##### :warning: If the example code (`*.ipynb`) can't be loaded, please *"copy"* its Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:
 
-## [Chapter 2 - Basic models of machine learning ](Chapter_02)
+## [Chapter 2 - Basic models of machine learning ](Chapter_02/README.md)
 Give the major concept and history of machine learning algorithm. Start from the **supervised learning**: **Perceptron learning algorithm (PLA)**, **Gradient decent algorithm** and **Stochastic gradient decent algorithm** by building own class.
 * [Example 1 - Perceptron Linear Algorith, PLA](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_01_PLA.ipynb)
 * [Example 2 - PLA with shuffled data](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_02_PLA.ipynb)
@@ -21,7 +21,7 @@ Give the major concept and history of machine learning algorithm. Start from the
 * [Example 4 - Adaptive Linear Neuron Gradian Decent](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_04_AdalineGD.ipynb)
 * [Example 5 - Stochastic Gradian Decent](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_05_StochasticGD.ipynb)
 
-## [Chapter 3 - Classification models](Chapter_03)
+## [Chapter 3 - Classification models](Chapter_03/README.md)
 Give several futher popular learning algorithms in current and foucs on **classification** case with **supervised learning** by using **Scikit-learn** tools, e.g. **PLA**, **Logist regession**, **Support Vector Machine (SVM)**, **decision tree**, **random forest** and **K-nearest neigbors (KNN)**.
 * [Example 1 - PLA by *scikit-learn* ](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_03/example_01_PLA.ipynb)
 * [Example 2 - Logistic Regression](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_03/example_02_LogisticRegression.ipynb)
@@ -29,14 +29,14 @@ Give several futher popular learning algorithms in current and foucs on **classi
 * [Example 4 - Tree algorithms](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_03/example_04_TreeAlgorithms.ipynb)
 * [Example 5 - k-Nearest Neighbor, KNN](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_03/example_05_KNN.ipynb)
 
-## [Chapter 4 - Preprocessing data, regularization methods](Chapter_04)
+## [Chapter 4 - Preprocessing data, regularization methods](Chapter_04/README.md)
 Gives the basic examples for preprocessing data and introduceing the ***Regularization*** in machine learning, which is for dealing with the overfitting problem. Two Regularization methods, **L1** and **L2**, have clear comparison in this chapter. Except regularization, two feature selection algorithms are introduced: **Sequential backward selection (SBS)** and **Random forest**.
 
 * [Example 1 - Pre-processing with Data](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_04/example_01_Preprocessing.ipynb)
 * [Example 2 - Regularization methods](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_04/example_02_Regularization.ipynb)
 * [Example 3 - Feature selections](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_04/example_03_FeatureSelection.ipynb)
 
-## [Chapter 5 - Feature extraction and reduction](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_05)
+## [Chapter 5 - Feature extraction and reduction](Chapter_05/README.md)
 Provide important topic about feature extraction and reduction. Several common method will be shown here, e.g. **Principal Component Analysis (PCA)**, **Fisher's Linear Discriminant Analysis (LDA)** and **Kernel PCA**. I also introduce the fundamental theories about **Kernel algorithm**.
 
 * [Example 1 - Principal Component Analysis, PCA](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_05/example_01_PCA.ipynb)
@@ -44,24 +44,24 @@ Provide important topic about feature extraction and reduction. Several common m
 * [Example 3 - Kernel PCA](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_05/example_03_KernelPCA.ipynb)
 
 
-## [Chapter 6 - Model validation and paramers optimation](Chapter_06)
+## [Chapter 6 - Model validation and paramers optimation](Chapter_06/README.md)
 Model validation and parameters optimation are strongly correlatied the results of the learning. The validation can check and avoid the **underfitting** or **overfitting** problem during fitting before applying model to test or comming new data. The optimazation of superparameters can fine tune the model to fit better with the helps of validation. The method introduces here includes example of ***Pipline***, **K-fold cross-validation** and **nested cross-validation** etc....   
 
 * [Example 1 - Validation methods](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_06/example_01_validations.ipynb)
 * [Example 2 - Model selections](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_06/example_02_optimations.ipynb)
 * [Example 3 - Scoring methods](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_06/example_03_scoringMethods.ipynb)
 
-## [Chapter 7 - Model aggregation](Chapter_07)
+## [Chapter 7 - Model aggregation](Chapter_07/README.md))
 The methods can ensemble the models a meta-model which can be used either in classification and regression case. The concept is for reducing the bias of model dependency, and it also can be view as an alternative way of regularization. The aggregation models introduced in this chapter are : **Majority voting Aggregation**
 
 * [Example 1 - Majority Voting Aggregation](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_01_majorityVote.ipynb)
 * [Example 2 - Boostrap Aggregation](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_02_boostrap.ipynb)
 
-## [Chapter 8 - Natural language processing & Sentiment Analysis](Chapter_08)
+## [Chapter 8 - Natural language processing & Sentiment Analysis](Chapter_08/README.md))
 
-## [Chapter 9 - Model application on website](Chapter_09)
+## [Chapter 9 - Model application on website](Chapter_09/README.md))
 
-## [Chapter 10 - Regression models](Chapter_10)
+## [Chapter 10 - Regression models](Chapter_10/README.md))
 Foucus on **regression** case in **supervised** machine learning and give a example about **Exploratory Data Analysis** (EDA) for analyzing features. **Linear regression** with/without regularization cases,  
 * [Example 1 - Exploratory Data Analysis, EDA](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_10/example_01_EDA.ipynb)
 * [Example 2 - Linear Gredian Decent Regression ](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_10/example_02_LinearRegressionGD.ipynb)
