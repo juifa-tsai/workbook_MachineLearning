@@ -11,7 +11,9 @@ Model aggregations (ensemble methods) are the methods to ensemble or average the
 
 ---
 ###### Correspoding example codes
-* Example 1 @ [example_01_majorityVote.ipynb](example_01_majorityVote.ipynb)  
+* Chapter 7 @ [Chapter_07](.)
+* Example 1 @ [example_01_majorityVote.ipynb](example_01_majorityVote.ipynb)
+* Example 2 @ [example_02_boostrap.ipynb](example_02_boostrap.ipynb)   
 
 :warning: **If the example code (`*.ipynb`) can't be loaded, please *"copy"* its Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:**
 

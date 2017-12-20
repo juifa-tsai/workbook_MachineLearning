@@ -15,6 +15,7 @@ This chapter gives the basic examples for pre-processing data. Several tools can
 
 ---
 ###### Correspoding example codes
+* Chapter 4 @ [Chapter_04](.)
 * Example 1 @ [example_01_Preprocessing.ipynb](example_01_Preprocessing.ipynb)
 * Example 2 @ [example_02_Regularization.ipynb](example_02_Regularization.ipynb)
 * Example 3 @ [example_03_FeatureSelection.ipynb](example_03_FeatureSelection.ipynb)

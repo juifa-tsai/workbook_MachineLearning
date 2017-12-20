@@ -9,6 +9,7 @@ Introduce the **Dence Nearual Network (DNN)** algorithm with **[MNIST](http://ya
 
 ---
 ###### Correspoding example codes
+* Exersice 1 @ [Exersice_01](.)
 * Example 1 @ [example_01_FirstMNIST.ipynb](example_01_FirstMNIST.ipynb)
 
 ###### Functions and classes

@@ -10,6 +10,7 @@ This chapter give the introduction about the basic machine learning (ML) and sta
 
 ---
 ###### Correspoding example codes
+* Chapter 2 @ [Chapter_02](.)
 * Example 1 @ [example_01_PLA.ipynb](example_01_PLA.ipynb)
 * Example 2 @ [example_02_PLA.ipynb](example_02_PLA.ipynb)
 * Example 3 @ [example_03_PLA.ipynb](example_03_PLA.ipynb)

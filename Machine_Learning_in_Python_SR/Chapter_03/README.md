@@ -15,6 +15,7 @@ This chapter gives the tutorial of popular classification algorithm with **sciki
 
 ---
 ###### Correspoding example codes
+* Chapter 3 @ [Chapter_03](.)
 * Example 1 @ [example_01_PLA.ipynb](example_01_PLA.ipynb)
 * Example 2 @ [example_02_LogisticRegresion.ipynb](example_02_LogisticRegresion.ipynb)
 * Example 3 @ [example_03_SVM.ipynb](example_03_SVM.ipynb)

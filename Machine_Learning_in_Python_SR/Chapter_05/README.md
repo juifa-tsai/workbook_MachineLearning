@@ -14,6 +14,7 @@ This chapter gives the examples for feature extrcation and reduction which are v
 
 ---
 ###### Correspoding example codes
+* Chapter 5 @ [Chapter_05](.)
 * Example 1 @ [example_01_PCA.ipynb](example_01_PCA.ipynb)
 * Example 2 @ [example_02_FisherLDA.ipynb](example_02_FisherLDA.ipynb)
 * Example 3 @ [example_03_KernelPCA.ipynb](example_03_KernelPCA.ipynb)

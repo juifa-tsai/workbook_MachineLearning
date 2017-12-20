@@ -8,6 +8,7 @@ This chapter gives the tutorial of popular regression algorithms with **scikit-l
 
 ---
 ###### Correspoding example codes
+* Chapter 10 @ [Chapter_10](.)
 * Example 1 @ [example_01_EDA.ipynb](example_01_EDA.ipynb)
 * Example 2 @ [example_02_LinearRegressionGD.ipynb](example_02_LinearRegressionGD.ipynb)
 * Example 3 @ [example_03_LinearRegressionSkLearn.ipynb](example_03_LinearRegressionSkLearn.ipynb)
