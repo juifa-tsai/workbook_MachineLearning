@@ -51,17 +51,17 @@ Model validation and parameters optimation are strongly correlatied the results 
 * [Example 2 - Model selections](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_06/example_02_optimations.ipynb)
 * [Example 3 - Scoring methods](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_06/example_03_scoringMethods.ipynb)
 
-## [Chapter 7 - Model aggregation](Chapter_07/README.md))
+## [Chapter 7 - Model aggregation](Chapter_07/README.md)
 The methods can ensemble the models a meta-model which can be used either in classification and regression case. The concept is for reducing the bias of model dependency, and it also can be view as an alternative way of regularization. The aggregation models introduced in this chapter are : **Majority voting Aggregation**
 
 * [Example 1 - Majority Voting Aggregation](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_01_majorityVote.ipynb)
 * [Example 2 - Boostrap Aggregation](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_02_boostrap.ipynb)
 
-## [Chapter 8 - Natural language processing & Sentiment Analysis](Chapter_08/README.md))
+## [Chapter 8 - Natural language processing & Sentiment Analysis](Chapter_08/README.md)
 
-## [Chapter 9 - Model application on website](Chapter_09/README.md))
+## [Chapter 9 - Model application on website](Chapter_09/README.md)
 
-## [Chapter 10 - Regression models](Chapter_10/README.md))
+## [Chapter 10 - Regression models ](Chapter_10/README.md)
 Foucus on **regression** case in **supervised** machine learning and give a example about **Exploratory Data Analysis** (EDA) for analyzing features. **Linear regression** with/without regularization cases,  
 * [Example 1 - Exploratory Data Analysis, EDA](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_10/example_01_EDA.ipynb)
 * [Example 2 - Linear Gredian Decent Regression ](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_10/example_02_LinearRegressionGD.ipynb)
