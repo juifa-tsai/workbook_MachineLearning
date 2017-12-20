@@ -8,6 +8,8 @@ Model aggregations (ensemble methods) are the methods to ensemble or average the
    - Visualize ROC, decision regions and hyperparameter optimization.
 
 - [**Example 2 - Bootstrap Aggregation**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_02_bootstrap.ipynb)
+   - Intoduce the **Bootstrao Aggregation**, so call **bagging method**.
+   - Comparing the performace between single decision tree and *bagged* trees. 
 
 ---
 ###### Correspoding example codes
