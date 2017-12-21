@@ -56,6 +56,7 @@ The methods can ensemble the models a meta-model which can be used either in cla
 
 * [Example 1 - Majority Voting Aggregation](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_01_majorityVote.ipynb)
 * [Example 2 - Bootstrap Aggregation](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_02_bootstrap.ipynb)
+* [Example 3 - Adaptive boosting](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_03_adaBoost.ipynb) 
 
 ## [Chapter 8 - Natural language processing & Sentiment Analysis](Chapter_08/README.md)
 

@@ -9,7 +9,11 @@ Model aggregations (ensemble methods) are the methods to ensemble or average the
 
 - [**Example 2 - Bootstrap Aggregation**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_02_bootstrap.ipynb)
    - Intoduce the **Bootstrao Aggregation**, so call **bagging method**.
-   - Comparing the performace between single decision tree and *bagged* trees. 
+   - Comparing the performace between single decision tree and *bagged* trees.
+
+- [**Example 3 - Adaptive boosting**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_03_adaBoost.ipynb)
+   - Indroduce the **Adaptive boosting (AdaBoost)** method to obtain strong learners from weak learners.
+   - Demonstrate and compare the performace between weak learners and **AdaBoost** with *1-depth decision tree* and *perceptron*.
 
 ---
 ###### Correspoding example codes
