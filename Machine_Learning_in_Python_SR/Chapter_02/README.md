@@ -1,12 +1,12 @@
 # Chapter 2 : Basic models of machine learning
 This chapter give the introduction about the basic machine learning (ML) and start from classification case: ***linear perceptron***, ***adoptive linear perceptron*** and ***gradient decent algorithm*** etc. Before going to next chapter to using online open-source ML package, **scikit-learn**, we build the own ML class by **pandas** and **numpy** package. We also perform and visisulize the results with **matplotlib** and **ipython** packges. This is not only focusing on implement part but demonstrate the detail caculation and theories behinde the models. Some exmaples also give the optimaztion test which extends from the book. The exercises are all using iris data.  
 
-1. [**Example 1 - Perceptron Linear Algorith, PLA**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_01_PLA.ipynb)
+1. [**Example 1 - Perceptron Linear Algorith, PLA**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_01_PLA.ipynb?flush_cache=true)
    - Apply `Perceptron` to data iris data, to demonstrate the learing process.
-2. [**Example 2 - PLA with shuffled data**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_02_PLA.ipynb)
-3. [**Example 3 - Ensembling PLA hypotheses**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_03_PLA.ipynb)
-4. [**Example 4 - Adaptive Linear Neuron Gradian Decent**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_04_AdalineGD.ipynb)
-5. [**Example 5 - Stochastic Gradian Decent**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_05_StochasticGD.ipynb)
+2. [**Example 2 - PLA with shuffled data**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_02_PLA.ipynb?flush_cache=true)
+3. [**Example 3 - Ensembling PLA hypotheses**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_03_PLA.ipynb?flush_cache=true)
+4. [**Example 4 - Adaptive Linear Neuron Gradian Decent**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_04_AdalineGD.ipynb?flush_cache=true)
+5. [**Example 5 - Stochastic Gradian Decent**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_02/example_05_StochasticGD.ipynb?flush_cache=true)
 
 ---
 ###### Correspoding example codes
