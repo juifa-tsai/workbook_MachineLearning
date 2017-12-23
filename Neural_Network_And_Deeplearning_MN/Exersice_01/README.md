@@ -12,7 +12,8 @@ Introduce the **Dence Nearual Network (DNN)** algorithm with **[MNIST](http://ya
 ---
 ###### Correspoding example codes
 * Exersice 1 @ [Exersice_01](.)
-* Example 1 @ [example_01_FirstMNIST.ipynb](example_01_FirstMNIST.ipynb)
+* Example 1 @ [example_01_mathNN.ipynb](example_01_mathNN.ipynb)
+* Example 2 @ [example_02_FirstMNIST.ipynb](example_02_FirstMNIST.ipynb)
 
 ###### Functions and classes
 * [Network.py](Network.py) : class `Network` for Neural Network.
