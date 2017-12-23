@@ -31,6 +31,7 @@ class Network(object):
         if test_data: n_test = len(test_data)
         n = len(training_data)
         start_time = time.time()
+        self.cost_ = []
 
         for j in xrange(epochs):
             random.shuffle(training_data)
