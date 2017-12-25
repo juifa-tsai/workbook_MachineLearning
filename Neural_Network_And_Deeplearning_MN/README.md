@@ -17,4 +17,4 @@ Introduce the **Nearual Network (NN)** algorithm with **[MNIST](http://yann.lecu
 
 
 ## [Exersice 2 - Improved Neural Network](Exersice_02/README.md)
-Basing on the previous exersice, we start to deeply discuss the properties of neural network and try to improve it by serval altinative ways. The improving methods are basing on modifing the math behind it, we change the active functions or cost functions in hidden layer and output layer. We also introduce the effect of regularizations in neural network. In the end, the improvement of weights initialization for input layer is provieded as well.  
+Basing on the previous exersice, we start to deeply discuss the properties of neural network and try to improve it by several altinative ways. The improving methods are basing on modifing the math behind it, we change the active functions or cost functions in hidden layer and output layer. We also introduce the effect of regularizations in neural network. In the end, the improvement of weights initialization for input layer is provieded as well.  
