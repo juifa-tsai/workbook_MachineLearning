@@ -7,7 +7,7 @@ The following :ballot_box_with_check: and :heavy_check_mark: mean the course/boo
 
 | Coures | Source | Progress | Note |
 | -------- | -------- | -------- | -------- |
-| <img src="doc/AI-LOGO.jpg"  height="150" width="300"> |  Coursera: [**Artificial Intelligence**, *Tian-Li Yu, NTU*](https://www.coursera.org/learn/rengong-zhineng) | :ballot_box_with_check: | |
+| <img src="doc/AI-LOGO.jpg"  height="150" width="300"> |  Coursera: [**Artificial Intelligence**, *Tian-Li Yu, NTU*](https://www.coursera.org/learn/rengong-zhineng) | :ballot_box_with_check: | [Certificate](https://www.coursera.org/account/accomplishments/certificate/QWCBNFVT37Q8) |
 | <img src="doc/Lin.jpg"  height="150" width="300">  | Youtube: [**Machine Learning Foundations/Techniques**, *Hsuan-Tien Lin*](https://www.csie.ntu.edu.tw/~htlin/) | :ballot_box_with_check: | |
 | <img src="doc/Hungyi_Lee.png"  height="150" width="300">  | Youtube: [**Deeplearning and Machine Learning**, *Hung-yi Lee, NTU*](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49) | :ballot_box_with_check: | [NTU link](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html) |
 
