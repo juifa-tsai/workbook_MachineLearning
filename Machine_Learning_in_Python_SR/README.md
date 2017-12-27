@@ -58,7 +58,9 @@ The methods can ensemble the models a meta-model which can be used either in cla
 * [Example 2 - Bootstrap Aggregation](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_02_bootstrap.ipynb?flush_cache=true)
 * [Example 3 - Adaptive boosting](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_07/example_03_adaBoost.ipynb?flush_cache=true)
 
-## [Chapter 8 - Natural language processing & Sentiment Analysis](Chapter_08/README.md)
+## [Chapter 8 - Application for Sentiment Analysis](Chapter_08/README.md)
+
+* [Example 1 - Basic application of Nature Language Processing](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_08/example_01_basicNLP.ipynb?flush_cache=true)
 
 ## [Chapter 9 - Model application on website](Chapter_09/README.md)
 

@@ -1,4 +1,4 @@
-# Chapter 8 : Natural language processing & Sentiment Analysis
+# Chapter 8 : Application for Sentiment Analysis
 
 - [**Example 1 - Basic application of Nature Language Processing**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_08/example_01_basicNLP.ipynb?flush_cache=true)
    - Introduce application of the Nature Language Processing (NLP)
