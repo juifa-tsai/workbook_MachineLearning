@@ -1,8 +1,8 @@
 # Chapter 8 : Application for Sentiment Analysis
 
-- [**Example 1 - Basic application of Nature Language Processing**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_08/example_01_basicNLP.ipynb?flush_cache=true)
-   - Introduce application of the Nature Language Processing (NLP).
-   - Using [IMBd data](http://ai.stanford.edu/~amaas/data/sentiment) to demonstrate the NLP.
+- [**Example 1 - Basic Techniques of Nature Language Processing**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_08/example_01_basicNLP.ipynb?flush_cache=true)
+   - Introduce Techniques of the Nature Language Processing (NLP).
+   - The preprocessing of sentiment analysis. 
 - [**Example 2 - Sentiment training with IMBd data**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_08/example_02_IMBd.ipynb?flush_cache=true)
    - The IMBd data are downloaded from [http://ai.stanford.edu/~amaas/data/sentiment](http://ai.stanford.edu/~amaas/data/sentiment).
    - Use the machine learning and NLP techniques to train IMBd movie review data.
