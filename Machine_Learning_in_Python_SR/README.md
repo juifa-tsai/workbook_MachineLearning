@@ -61,7 +61,8 @@ The methods can ensemble the models a meta-model which can be used either in cla
 ## [Chapter 8 - Application for Sentiment Analysis](Chapter_08/README.md)
 
 * [Example 1 - Basic Techniques of Nature Language Processing](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_08/example_01_basicNLP.ipynb?flush_cache=true)
-* [Example 2 - Sentiment training with IMBd data](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_08/example_02_IMBd.ipynb?flush_cache=true)
+* [Example 2 - Sentiment training with IMBd data, grid searching](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_08/example_02_gridSearch.ipynb?flush_cache=true)
+* [Example 3 - Sentiment training with IMBd data, out-of-core learning](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_08/example_03_outofcore.ipynb?flush_cache=true)
 
 ## [Chapter 9 - Model application on website](Chapter_09/README.md)
 
