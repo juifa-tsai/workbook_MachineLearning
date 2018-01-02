@@ -16,5 +16,5 @@ Introduce the **Nearual Network (NN)** algorithm with **[MNIST](http://yann.lecu
 - [Example 2 - First MNIST Training](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Neural_Network_And_Deeplearning_MN/Exersice_01/example_02_FirstMNIST.ipynb?flush_cache=true)
 
 
-## [Exersice 2 - Improved Neural Network](Exersice_02/README.md)
+## [Exersice 2 - Improved Neural Network](Exersice_02/README.md) :construction:
 Basing on the previous exersice, we start to deeply discuss the properties of neural network and try to improve it by several altinative ways. The improving methods are basing on modifing the math behind it, we change the active functions or cost functions in hidden layer and output layer. We also introduce the effect of regularizations in neural network. In the end, the improvement of weights initialization for input layer is provieded as well.  

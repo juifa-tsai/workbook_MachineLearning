@@ -64,7 +64,7 @@ The methods can ensemble the models a meta-model which can be used either in cla
 * [Example 2 - Sentiment training with IMBd data, grid searching](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_08/example_02_gridSearch.ipynb?flush_cache=true)
 * [Example 3 - Sentiment training with IMBd data, out-of-core learning](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_08/example_03_outofcore.ipynb?flush_cache=true)
 
-## [Chapter 9 - Model application on website](Chapter_09/README.md)
+## [Chapter 9 - Model application on website](Chapter_09/README.md) :construction:
 
 ## [Chapter 10 - Regression models ](Chapter_10/README.md)
 Foucus on **regression** case in **supervised** machine learning and give a example about **Exploratory Data Analysis** (EDA) for analyzing features. **Linear regression** with/without regularization cases,  
@@ -73,11 +73,11 @@ Foucus on **regression** case in **supervised** machine learning and give a exam
 * [Example 3 - Linear Regression with *scikit-learn*](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_10/example_03_LinearRegressionSkLearn.ipynb?flush_cache=true)
 * [Example 4 - Regularization in Regression models](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_10/example_04_regularization_regression.ipynb?flush_cache=true)
 
-## [Chapter 11 - Unsupervised models](Chapter_11)
+## [Chapter 11 - Unsupervised models](Chapter_11) :construction:
 
-## [Chapter 12 - Neural network](Chapter_12) 
+## [Chapter 12 - Neural network](Chapter_12) :construction:
 
-## [Chapter 13 - Neural network application by Theano](Chapter_13)
+## [Chapter 13 - Neural network application by Theano](Chapter_13) :construction:
 
 ---
 > **Scripts** \
