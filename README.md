@@ -11,10 +11,10 @@ All the technologies and theories which inspire and lead the following two workb
 ## Workbook projects
 ##### :warning: If the example code (`*.ipynb`) can't be loaded, please *"copy"* its Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:
 
-### [**1. Python Machine learning**](Python_Machine_Learning_RS/README.md)
+### [**1. Python Machine Learning**](Python_Machine_Learning_RS/README.md)
 The programing language focus on **Python**, and the packages of machine learning models are using **scikit-learn**, **pandas** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the processes of analysis from data. Sometimes **Scipy** are used.
 
-All the main contants and knowledges are refered to the book [**Machine Learning in Python**, *Sebastian Raschka*](https://sebastianraschka.com/books.html). Several detial theories and mathematical methods are inspired by the book [**Pattern Recognition and Machine Learning**, *Christopher M. Bishop* ](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y), and online courses, detail listed in [resources.md](resources.md).
+All the main contants and knowledges are refered to the book [**Python Machine Learning**, *Sebastian Raschka*](https://sebastianraschka.com/books.html). Several detial theories and mathematical methods are inspired by the book [**Pattern Recognition and Machine Learning**, *Christopher M. Bishop* ](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y), and online courses, detail listed in [resources.md](resources.md).
 
 <img src="doc/Python_Machine_Learning_RS.jpeg" height="300"> <img src="doc/Pattern_Recognition_and_Machine_Learning_Bishop.jpeg"  height="300">
 

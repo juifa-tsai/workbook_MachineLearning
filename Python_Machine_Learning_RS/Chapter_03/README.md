@@ -1,16 +1,16 @@
 # Chapter 3 : Classification models
 This chapter gives the tutorial of popular classification algorithm with **scikit-learn** python package: ***linear perceptron***, ***logistic regression***, ***suport vector machine*** (SVM), ***Kernel SVM***, ***Decision tree***, ***Random forest*** and ***KNN***. The implement with sklearn package is used here, and the theories behine each models are also provided in detail. Some optimation and parameter tuning are perfromed in following examples as well. The exercises are all using iris data.  
 
-- [**Example 1 - PLA by scikit-learn**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_03/example_01_PLA.ipynb?flush_cache=true)
-- [**Example 2 - Logistic Regression**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_03/example_02_LogisticRegression.ipynb?flush_cache=true)
+- [**Example 1 - PLA by scikit-learn**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Python_Machine_Learning_RS/Chapter_03/example_01_PLA.ipynb?flush_cache=true)
+- [**Example 2 - Logistic Regression**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Python_Machine_Learning_RS/Chapter_03/example_02_LogisticRegression.ipynb?flush_cache=true)
    - Concept and practice of **Logist regrssion**  
    - First introduciton of **L2 regularization**.
-- [**Example 3 - Support Vector Machine, SVM**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_03/example_03_SVM.ipynb?flush_cache=true)
+- [**Example 3 - Support Vector Machine, SVM**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Python_Machine_Learning_RS/Chapter_03/example_03_SVM.ipynb?flush_cache=true)
    - **Support vecter machine**
-- [**Example 4 - Tree algorithms**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_03/example_04_TreeAlgorithms.ipynb?flush_cache=true)
+- [**Example 4 - Tree algorithms**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Python_Machine_Learning_RS/Chapter_03/example_04_TreeAlgorithms.ipynb?flush_cache=true)
    - Inclusding **decision tree** algorithm with different active function
    - Small exercise about **Random forest**.
-- [**Example 5 - k-Nearest Neighbor, KNN**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Machine_Learning_in_Python_SR/Chapter_03/example_05_KNN.ipynb?flush_cache=true)
+- [**Example 5 - k-Nearest Neighbor, KNN**](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Python_Machine_Learning_RS/Chapter_03/example_05_KNN.ipynb?flush_cache=true)
    - Give the sense of effects of distance matric in ***K*** **nearest neighbor** algorithm.
 
 ---
