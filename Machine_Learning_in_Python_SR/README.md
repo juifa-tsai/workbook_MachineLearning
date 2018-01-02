@@ -75,7 +75,7 @@ Foucus on **regression** case in **supervised** machine learning and give a exam
 
 ## [Chapter 11 - Unsupervised models](Chapter_11)
 
-## [Chapter 12 - Neural network](Chapter_12)
+## [Chapter 12 - Neural network](Chapter_12) 
 
 ## [Chapter 13 - Neural network application by Theano](Chapter_13)
 
