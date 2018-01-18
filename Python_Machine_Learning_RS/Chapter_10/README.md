@@ -14,6 +14,7 @@ This chapter gives the tutorial of popular regression algorithms with **scikit-l
 * Example 2 @ [example_02_LinearRegressionGD.ipynb](example_02_LinearRegressionGD.ipynb)
 * Example 3 @ [example_03_LinearRegressionSkLearn.ipynb](example_03_LinearRegressionSkLearn.ipynb)
 * Example 4 @ [example_04_regularization_regression.ipynb](example_04_regularization_regression.ipynb)
+* Example 5 @ [example_05_NonLinear_polynomial.ipynb](example_05_NonLinear_polynomial.ipynb)
 
 :warning: **If the example code (`*.ipynb`) can't be loaded, please *"copy"* its Github URL and *"paste"* to [nbviewer](https://nbviewer.jupyter.org) :warning:**
 
