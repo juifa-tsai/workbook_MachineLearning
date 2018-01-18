@@ -5,6 +5,7 @@ This chapter gives the tutorial of popular regression algorithms with **scikit-l
 - [Example 2 - Linear Gredian Decent Regression](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Python_Machine_Learning_RS/Chapter_10/example_02_LinearRegressionGD.ipynb?flush_cache=true)
 - [Example 3 - Linear Regression with scikit-learn](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Python_Machine_Learning_RS/Chapter_10/example_03_LinearRegressionSkLearn.ipynb?flush_cache=true)
 -  [Example 4 - Regularization in Regression models](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Python_Machine_Learning_RS/Chapter_10/example_04_regularization_regression.ipynb?flush_cache=true)
+-  [Example 5 - Nonlinear regression with Polynomial models](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Python_Machine_Learning_RS/Chapter_10/example_05_NonLinear_polynomial.ipynb?flush_cache=true)
 
 ---
 ###### Correspoding example codes

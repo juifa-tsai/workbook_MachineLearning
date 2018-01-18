@@ -5,7 +5,7 @@ Several models of machine learning intruduced in this workbooks include  **class
 
 The programing language focus on **Python**, and the packages of machine learning models are using **scikit-learn** (v 0.20), **pandas** and **numpy**. The performance and visualization for analysis are using **matplotlib** and **jupyter notebook** in **ipython**. They demonstrates the processes of analysis from data. Sometimes **Scipy** are used.
 
-All the main contants and knowledges are refered to the book [**Machine Learning in Python**, *Sebastian Raschka*](https://sebastianraschka.com/books.html). Several detial theories and mathematical methods are inspired by the book [**Pattern Recognition and Machine Learning**, *Christopher M. Bishop* ](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y), , and online courses, detail listed in [resources.md](resources.md).
+All the main contants and knowledges are refered to the book [**Machine Learning in Python**, *Sebastian Raschka*](https://sebastianraschka.com/books.html). Several detial theories and mathematical methods are inspired by the book [**Pattern Recognition and Machine Learning**, *Christopher M. Bishop* ](https://books.google.com.tw/books/about/Pattern_Recognition_and_Machine_Learning.html?id=kTNoQgAACAAJ&source=kp_cover&redir_esc=y), , and online courses, detail listed in [resources.md](../resources.md).
 
 <img src="../doc/Python_Machine_Learning_RS.jpeg" height="300"> <img src="../doc/Pattern_Recognition_and_Machine_Learning_Bishop.jpeg"  height="300">
 
@@ -72,6 +72,7 @@ Foucus on **regression** case in **supervised** machine learning and give a exam
 * [Example 2 - Linear Gredian Decent Regression ](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Python_Machine_Learning_RS/Chapter_10/example_02_LinearRegressionGD.ipynb?flush_cache=true)
 * [Example 3 - Linear Regression with *scikit-learn*](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Python_Machine_Learning_RS/Chapter_10/example_03_LinearRegressionSkLearn.ipynb?flush_cache=true)
 * [Example 4 - Regularization in Regression models](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Python_Machine_Learning_RS/Chapter_10/example_04_regularization_regression.ipynb?flush_cache=true)
+* [Example 5 - Nonlinear regression with Polynomial models](https://nbviewer.jupyter.org/github/juifa-tsai/workbook_MachineLearning/blob/master/Python_Machine_Learning_RS/Chapter_10/example_05_NonLinear_polynomial.ipynb?flush_cache=true)
 
 ## [Chapter 11 - Unsupervised models](Chapter_11) :construction:
 
